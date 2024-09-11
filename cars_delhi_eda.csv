@@ -1,0 +1,900 @@
+variant,transmission,km_driven,owner_type,fuel_type,registeration,price,year_launch,company_name,model_name
+XM 1.2,Manual,95230,1st Owner,Petrol,UP-16,650000,2018,Tata,NEXON
+1.0 RXT Opt,Manual,72956,2nd Owner,Petrol,HR-11,319000,2017,Renault,Kwid
+ASTA 1.2 (O),Manual,50636,2nd Owner,Petrol,DL-7C,587000,2017,HYUNDAI,ELITE
+W8(O),Manual,86652,1st Owner,Diesel,DL-12,822000,2019,Mahindra,XUV
+1.5 SX (O) AT,Automatic,20235,1st Owner,Petrol,DL-9C,1674000,2020,Hyundai,Creta
+S11,Manual,15235,1st Owner,Diesel,UP-32,1731000,2021,MAHINDRA,SCORPIO
+FLUIDIC 1.4 VTVT CX,Manual,57937,1st Owner,Petrol,DL-12,501000,2014,Hyundai,Verna
+XZ PETROL,Manual,50097,1st Owner,Petrol,HR-26,419000,2017,Tata,Tiago
+5 STR WITH A/C+HTR,Manual,15468,1st Owner,Petrol,DL-2C,486000,2019,Maruti,Eeco
+HIGHLINE1.2L PETROL,Manual,64704,2nd Owner,Petrol,DL-3C,495000,2015,VOLKSWAGEN,POLO
+LXI,Manual,83279,1st Owner,Petrol,DL-1C,332000,2017,Maruti,WAGON
+LXI CNG,Manual,95040,1st Owner,CNG,DL-5C,304000,2018,Maruti,ALTO
+ACTIVE 1.0 TSI MT,Manual,13624,1st Owner,Petrol,UP-14,1156000,2022,SKODA,KUSHAQ
+DELTA PETROL 1.2,Manual,68018,1st Owner,Petrol,DL-10,499000,2016,Maruti,Baleno
+TITANIUM 1.5L DIESEL,Manual,96075,1st Owner,Diesel,DL-3C,789000,2020,FORD,ECOSPORT
+SPORTZ 1.2 KAPPA VTVT,Manual,23308,1st Owner,Petrol,DL-8C,396000,2015,HYUNDAI,GRAND
+SIGMA 1.5 SHVS,Manual,9769,1st Owner,Petrol,DL-7C,879000,2021,Maruti,S
+85 PS RXE DIESEL ADVENTURE,Manual,56105,1st Owner,Diesel,DL-1C,388000,2014,RENAULT,DUSTER
+ZXI+,Manual,28899,1st Owner,Petrol,DL-6C,631000,2018,Maruti,SWIFT
+1.6 SX VTVT,Manual,25995,2nd Owner,Petrol,DL-8C,822000,2018,Hyundai,Verna
+LXI,Manual,12982,1st Owner,Petrol,DL-6C,589000,2021,Maruti,SWIFT
+GLS,Manual,95604,1st Owner,Petrol,HR-26,247000,2014,HYUNDAI,SANTRO
+RXL,Manual,8611,1st Owner,Petrol,HR-26,398000,2020,RENAULT,KWID
+ZDI PLUS AMT,Automatic,66354,1st Owner,Diesel,UP-37,840000,2018,Maruti,VITARA
+1.6 SX (O) CRDI,Manual,56461,1st Owner,Diesel,DL-8C,765000,2015,HYUNDAI,CRETA
+SPORTZ 1.2 KAPPA VTVT,Manual,31109,1st Owner,Petrol,DL-3C,428000,2016,Hyundai,Grand
+LXI,Manual,45565,1st Owner,Petrol,HR-35,552000,2020,Maruti,Dzire
+TREND+ 1.2 TI-VCT,Manual,22989,1st Owner,Petrol,DL-7C,619000,2019,Ford,FREESTYLE
+2.0 SX AT PETROL,Automatic,3415,1st Owner,Petrol,DL-12,1248000,2017,Hyundai,New
+XZ 1.2 REVOTRON,Manual,35863,1st Owner,Petrol,HR-30,504000,2020,Tata,Tiago
+MAGNA O 1.2,Manual,71274,2nd Owner,Petrol,DL-8C,239000,2011,Hyundai,i20
+V CVT,Automatic,81702,2nd Owner,Petrol,DL-1C,734000,2017,Honda,City
+S 1.5 PETROL,Manual,24849,1st Owner,Petrol,HR-51,1342000,2021,HYUNDAI,CRETA
+MAGNA (O) 1.2,Manual,37065,1st Owner,Petrol,DL-3C,353000,2013,HYUNDAI,I20
+XZ CNG,Manual,19474,1st Owner,CNG,DL-7C,806000,2022,Tata,TIGOR
+SUPER DIESEL ,Manual,53140,2nd Owner,Diesel,HR-26,1282000,2019,MG,HECTOR
+1.5 TDI AT AMBITION,Automatic,32244,1st Owner,Diesel,DL-8C,806000,2018,Skoda,Rapid
+SPORTZ 1.2,Manual,32762,1st Owner,Petrol,DL-1C,544000,2015,HYUNDAI,ELITE
+LXI (O),Manual,71434,2nd Owner,Petrol,DL-14,362000,2015,Maruti,Swift
+ERA 1.1 IRDE,Manual,50384,1st Owner,Petrol,HR-26,270350,2013,HYUNDAI,I10
+1.2L I-VTEC SELECT,Manual,51440,1st Owner,Petrol,DL-5C,299000,2012,Honda,Jazz
+LXI,Manual,26600,1st Owner,Petrol,DL-2C,572000,2020,Maruti,Swift
+HIGHLINE 1.2 TSI AT,Automatic,535,2nd Owner,Petrol,DL-3C,467000,2014,VOLKSWAGEN,VENTO
+VXI,Manual,27022,1st Owner,Petrol,DL-8C,275000,2011,Maruti,SWIFT
+SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,46608,1st Owner,CNG,DL-8C,579000,2017,HYUNDAI,GRAND
+1.5TITANIUM TDCI,Manual,41955,1st Owner,Diesel,UP-16,801000,2019,FORD,ECOSPORT
+MAGNA 1.2 VTVT,Manual,85306,1st Owner,Petrol,DL-8C,340000,2013,Hyundai,i20
+ASTA (O) 1.2 KAPPA VTVT,Manual,32353,1st Owner,Petrol,DL-12,498000,2016,Hyundai,Grand
+MAGNA 1.2 KAPPA VTVT,Manual,37511,1st Owner,Petrol,DL-8C,453000,2017,Hyundai,Grand
+VXI,Manual,94052,2nd Owner,Petrol,DL-2C,569000,2014,Maruti,Ertiga
+VDI,Manual,98557,1st Owner,Diesel,HR-27,642000,2018,Maruti,Vitara
+2.0 SX AT PETROL,Automatic,39077,1st Owner,Petrol,UP-16,1113000,2016,HYUNDAI,NEW
+ZETA 1.3,Manual,64911,1st Owner,Diesel,DL-10,702000,2018,Maruti,S
+SMT 1.5 CRDI,Manual,40734,1st Owner,Diesel,HR-52,833000,2020,Hyundai,VENUE
+GL PLUS,Manual,43964,1st Owner,Petrol,DL-3C,250000,2013,Hyundai,Santro
+1.2 EMT I VTEC,Manual,39406,1st Owner,Petrol,DL-8C,401000,2014,Honda,Amaze
+1.2 SX MT I VTEC,Manual,84309,2nd Owner,CNG,DL-12,539000,2016,Honda,Amaze
+MAGNA EXECUTIVE 1.2,Manual,53067,1st Owner,Petrol,HR-30,565000,2018,Hyundai,Elite
+DELTA 1.2 K12,Manual,29913,1st Owner,Petrol,HR-13,465000,2018,Maruti,IGNIS
+SPORTZ 1.2 KAPPA VTVT,Manual,56871,1st Owner,Petrol,DL-8C,369000,2015,HYUNDAI,GRAND
+VXI,Manual,0,1st Owner,Petrol,HR-51,689000,2021,Maruti,SWIFT
+HIGHLINE PLUS 1.0 TSI MT,Manual,6323,1st Owner,Petrol,UP-32,949000,2020,Volkswagen,Vento
+XM 2.0L Kryotec,Manual,49585,1st Owner,Diesel,HR-26,1174000,2019,TATA,Harrier
+XV PREMIUM MT,Manual,3008,1st Owner,Petrol,HR-51,867000,2022,Nissan,MAGNITE
+ASTA 1.2,Manual,82575,1st Owner,Petrol,DL-9C,485000,2014,Hyundai,Elite
+HIGHLINE A/T,Automatic,88800,1st Owner,Diesel,DL-10,2069000,2018,VOLKSWAGEN,TIGUAN
+VXI AMT,Automatic,24467,1st Owner,Petrol,DL-2C,716000,2021,Maruti,Dzire
+1.2L I-VTEC E,Manual,17202,1st Owner,Petrol,DL-4C,361000,2014,Honda,Amaze
+HTX 1.0 IMT,Manual,18786,2nd Owner,Petrol,DL-3C,1031000,2021,KIA,SONET
+GTX PLUS 1.0 DCT,Automatic,25964,1st Owner,Petrol,HR-06,1272000,2021,KIA,SONET
+V MT PETROL,Manual,5785,1st Owner,Petrol,DL-4C,1048000,2021,Honda,City
+S MT 1.2 KAPPA,Manual,15163,1st Owner,Petrol,DL-7C,867000,2022,Hyundai,VENUE
+SPORTZ 1.2,Manual,21545,1st Owner,Petrol,HR-51,302000,2013,Hyundai,i10
+MONTE CARLO 1.0 MT,Manual,35196,1st Owner,Petrol,DL-10,1057000,2021,Skoda,Rapid
+MAGNA 1.2 MT,Manual,18141,1st Owner,Petrol,DL-12,736000,2021,Hyundai,NEW
+1.5 SIGMA SHVS,Manual,78567,1st Owner,Petrol,DL-1C,713000,2020,Maruti,Ciaz
+T,Manual,14128,1st Owner,Petrol,DL-3C,539000,2019,Datsun,Go
+MAGNA PLUS,Manual,34328,1st Owner,Petrol,DL-3C,272000,2014,Hyundai,Eon
+VXI CNG,Manual,68657,1st Owner,CNG,HR-72,397000,2020,Maruti,S
+GTX + 1.0 IMT,Manual,7036,1st Owner,Petrol,HR-26,1216000,2021,KIA,SONET
+1.2 S,Manual,89972,1st Owner,Petrol,UP-53,607000,2018,Hyundai,i20
+VXI,Manual,56510,1st Owner,Petrol,HR-26,332000,2015,Maruti,Wagon
+SIGMA PETROL 1.2,Manual,18446,2nd Owner,Petrol,DL-5C,570000,2020,Maruti,Baleno
+MAGNA EXECUTIVE 1.2,Manual,55117,2nd Owner,Petrol,DL-8C,552000,2018,HYUNDAI,ELITE
+E PLUS 1.6 PETROL,Manual,70443,1st Owner,Petrol,DL-8C,820000,2017,Hyundai,Creta
+SX 1.2,Manual,42846,1st Owner,CNG,DL-9C,579250,2019,Hyundai,Xcent
+SPORTZ 1.2 KAPPA VTVT,Manual,46658,1st Owner,Petrol,DL-2C,396000,2015,Hyundai,Grand
+XZ 1.2,Manual,32195,1st Owner,Petrol,HR-19,692000,2020,TATA,ALTROZ
+XZ+ CNG 1.2 RTN,Manual,13579,1st Owner,CNG,DL-9C,753000,2022,Tata,Tiago
+RXL EASY R 1.0 L,Automatic,41505,1st Owner,Petrol,HR-19,686000,2021,Renault,Kiger
+G AT,Automatic,88365,1st Owner,Petrol,DL-2C,937000,2016,Toyota,Corolla
+XT+ Dark Edition,Manual,15347,1st Owner,Diesel,HR-98,1770000,2021,Tata,Harrier
+1.5 E MT PETROL,Manual,19282,1st Owner,Petrol,DL-14,615000,2016,Honda,City
+SPORTZ (O) 1.2 KAPPA VTVT,Manual,50446,1st Owner,Petrol,HR-10,506000,2017,Hyundai,Grand
+GTX + AT PETROL,Automatic,9417,1st Owner,Petrol,DL-8C,1663000,2020,KIA,SELTOS
+SX 1.2,Manual,31093,1st Owner,Petrol,DL-9C,706000,2020,Hyundai,AURA
+2.0 LONGITUDE (O),Manual,32038,1st Owner,Diesel,DL-10,1142000,2017,Jeep,Compass
+1.2 S MT I VTEC,Manual,50574,1st Owner,Petrol,DL-8C,293000,2013,HONDA,BRIO
+SX (O) 1.5 CRDI,Manual,36033,1st Owner,Diesel,HR-10,1596000,2021,HYUNDAI,VERNA
+XL(O),Manual,18993,2nd Owner,Petrol,HR-26,484000,2018,Nissan,Micra
+XZA 1.2 REVOTRON,Automatic,52164,1st Owner,Petrol,DL-3C,520000,2019,Tata,Tiago
+LXI,Manual,32075,1st Owner,Petrol,DL-9C,190000,2010,Maruti,Wagon
+DELTA PETROL 1.2,Manual,69292,1st Owner,Petrol,DL-8C,502000,2016,Maruti,Baleno
+SHARP DCT PETROL,Automatic,52597,1st Owner,Petrol,UP-41,1612000,2020,MG,HECTOR
+LXI,Manual,51267,1st Owner,CNG,HR-51,570000,2019,Maruti,Swift
+MAGNA 1.1 IRDE2,Manual,48832,1st Owner,Petrol,DL-10,343000,2015,Hyundai,i10
+SPORTZ 1.2 KAPPA VTVT,Manual,36938,1st Owner,Petrol,DL-8C,362000,2014,HYUNDAI,GRAND
+VX AT,Automatic,23106,1st Owner,Petrol,DL-3C,531000,2017,Honda,Brio
+ZXI+,Manual,6901,1st Owner,Petrol,DL-8C,819000,2021,Maruti,Swift
+SIGMA PETROL 1.2,Manual,21864,2nd Owner,Petrol,DL-5C,561000,2020,Maruti,Baleno
+V MT PETROL,Manual,29942,1st Owner,Petrol,DL-3C,864000,2018,Honda,City
+1.2 V CVT I VTEC,Automatic,12503,1st Owner,Petrol,DL-14,719000,2018,HONDA,AMAZE
+VXI AMT,Automatic,42526,1st Owner,Petrol,DL-12,570000,2017,Maruti,Dzire
+DELTA PETROL 1.2,Manual,62610,1st Owner,Petrol,DL-2C,586000,2019,Maruti,BALENO
+HTX 1.0 IMT,Manual,11425,1st Owner,Petrol,UP-16,1139000,2021,KIA,SONET
+DELTA 1.5 SHVS VVT MT,Manual,20701,1st Owner,Petrol,DL-12,759000,2019,Maruti,CIAZ
+1.4  LONGITUDE (O) AT,Automatic,23690,1st Owner,Petrol,DL-3C,1857000,2019,Jeep,Compass
+ALPHA 1.4 PETROL,Manual,79277,2nd Owner,Petrol,DL-6C,636000,2017,Maruti,CIAZ
+RXZ AT,Automatic,16093,1st Owner,Petrol,UP-32,708000,2020,Renault,TRIBER
+HIGHLINE PLUS 1.2L PETROL,Manual,30398,1st Owner,Petrol,DL-2C,623000,2017,Volkswagen,Polo
+ASTA AT 1.2 KAPPA VTVT,Automatic,32744,1st Owner,Petrol,DL-12,502000,2015,HYUNDAI,GRAND
+HIGHLINE PLUS 1.2L PETROL,Manual,18913,1st Owner,Petrol,DL-10,627000,2018,Volkswagen,Polo
+XZ PLUS PETROL,Manual,53126,1st Owner,Petrol,HR-72,492000,2019,Tata,Tiago
+LXI,Manual,24884,1st Owner,Petrol,UP-14,153000,2010,Maruti,Alto
+VXI PLUS,Manual,47014,2nd Owner,Petrol,DL-2C,614000,2016,Maruti,Ciaz
+HTX 1.5 DIESEL,Manual,60147,1st Owner,Diesel,DL-4C,1357000,2021,KIA,SELTOS
+1.6 VTVT SX (O) AT,Automatic,95153,2nd Owner,Petrol,HR-26,881000,2017,HYUNDAI,VERNA
+XZA 1.2 REVOTRON,Automatic,53852,1st Owner,Petrol,DL-3C,511000,2018,TATA,TIAGO
+LX HT PETROL 4WD MT,Manual,6089,1st Owner,Petrol,DL-10,1476000,2021,Mahindra,Thar
+LXI CNG,Manual,58419,1st Owner,CNG,HR-29,312000,2014,Maruti,Wagon
+S 1.2,Manual,74909,1st Owner,Petrol,UP-13,728000,2020,HYUNDAI,VENUE
+E PLUS 1.6 PETROL,Manual,28028,1st Owner,Petrol,DL-12,925000,2017,Hyundai,Creta
+SHARP DCT PETROL,Automatic,34505,1st Owner,Petrol,UP-16,1573000,2020,MG,HECTOR
+VX CVT PETROL,Automatic,26230,2nd Owner,Petrol,UP-14,1147000,2020,Honda,City
+SV CVT PETROL,Automatic,53566,1st Owner,Petrol,DL-4C,653000,2015,HONDA,CITY
+ZETA PETROL 1.2,Manual,26354,2nd Owner,CNG,DL-5C,736000,2020,Maruti,Baleno
+ZXI 1.2 BS IV,Manual,13470,1st Owner,Petrol,DL-5C,509000,2016,Maruti,Swift
+S MT PETROL,Manual,2,2nd Owner,Petrol,HR-26,315000,2011,Honda,City
+ZXI,Manual,40183,2nd Owner,Petrol,HR-26,525000,2017,Maruti,Swift
+V MT PETROL,Manual,19038,1st Owner,Petrol,DL-3C,794000,2017,Honda,City
+XM 1.2,Manual,50331,2nd Owner,CNG,DL-3C,696000,2019,Tata,NEXON
+1.5L I-DTEC S,Manual,45360,2nd Owner,Diesel,HR-30,366000,2015,Honda,Amaze
+1.2L I-VTEC E,Manual,20752,1st Owner,Petrol,DL-4C,608000,2019,HONDA,AMAZE
+Varicor 400 XMA,Automatic,76644,1st Owner,Diesel,DL-7C,980000,2018,TATA,HEXA
+1.2L I-VTEC VX,Manual,39936,1st Owner,Petrol,HR-26,392000,2014,Honda,Amaze
+SX 1.2 (O),Manual,84007,2nd Owner,Petrol,DL-3C,447000,2016,HYUNDAI,XCENT
+LXI,Manual,31519,1st Owner,Petrol,DL-3C,395000,2014,Maruti,SWIFT
+CRDE 4X4 AC,Manual,41410,1st Owner,Diesel,HR-26,718000,2018,Mahindra,Thar
+1.4 S PLUS,Manual,58830,1st Owner,Diesel,DL-1C,859000,2017,HYUNDAI,CRETA
+VXI,Manual,33410,2nd Owner,Petrol,DL-12,566000,2016,Maruti,CIAZ
+ALPHA MT,Manual,24087,1st Owner,Petrol,UP-32,1006000,2020,Maruti,XL6
+SV MT PETROL,Manual,28673,1st Owner,Petrol,DL-11,854000,2019,Honda,City
+HIGH AT,Automatic,30448,1st Owner,Petrol,DL-8C,1064000,2021,Toyota,URBAN
+ERA EXECUTIVE,Manual,39364,1st Owner,Petrol,DL-11,456200,2020,Hyundai,NEW
+S MT,Manual,26233,1st Owner,Petrol,DL-13,296000,2013,Honda,Brio
+RXZ AT,Automatic,8756,1st Owner,Petrol,UP-32,729000,2020,Renault,TRIBER
+VDI,Manual,81027,1st Owner,Diesel,DL-1C,739000,2019,Maruti,VITARA
+LXI CNG,Manual,91884,1st Owner,CNG,HR-26,318000,2016,Maruti,ALTO
+VX (O) PETROL,Manual,70190,1st Owner,Petrol,HR-29,666000,2015,Honda,City
+MAGNA 1.2,Manual,33752,1st Owner,Petrol,DL-8C,513000,2016,HYUNDAI,ELITE
+1.2 EXMT I VTEC,Manual,77120,1st Owner,Petrol,DL-4C,348000,2014,Honda,Amaze
+MAGNA 1.2 KAPPA VTVT,Manual,35022,1st Owner,Petrol,DL-8C,472000,2017,Hyundai,Grand
+1.2L I-VTEC V AT,Automatic,28608,1st Owner,Petrol,DL-12,664000,2017,HONDA,JAZZ
+1.6 VTVT SX (O) AT,Automatic,38660,1st Owner,Petrol,DL-1C,986000,2018,HYUNDAI,VERNA
+VXI,Manual,50002,1st Owner,Petrol,DL-3C,323000,2018,Maruti,ALTO
+VXI,Manual,53069,1st Owner,Petrol,UP-16,547000,2018,Maruti,Dzire
+1.2L I-VTEC S,Manual,90618,1st Owner,CNG,DL-3C,628000,2019,HONDA,AMAZE
+GL PLUS,Manual,49322,1st Owner,Petrol,DL-3C,202000,2011,Hyundai,Santro
+SPORTZ 1.2,Manual,54124,1st Owner,Petrol,DL-12,585000,2017,Hyundai,Elite
+LXI,Manual,18862,1st Owner,Petrol,UP-14,585000,2020,Maruti,Swift
+EX 1.5 PETROL,Manual,45938,1st Owner,Petrol,HR-51,1109000,2020,Hyundai,Creta
+SX AT 1.6 PETROL,Automatic,13948,1st Owner,Petrol,UP-14,1337000,2019,HYUNDAI,CRETA
+1.5L I-VTEC V MT,Manual,38508,1st Owner,Petrol,DL-11,825000,2018,Honda,City
+1.0 RXT Opt,Manual,41823,1st Owner,Petrol,DL-8C,358000,2018,Renault,Kwid
+RXS CVT 106 PS,Automatic,74566,2nd Owner,Petrol,DL-3C,698000,2018,Renault,Duster
+DELTA PETROL 1.2,Manual,28078,1st Owner,Petrol,UP-16,610000,2018,Maruti,Baleno
+MAGNA 1.2 KAPPA VTVT,Manual,1,1st Owner,Petrol,DL-10,456000,2016,Hyundai,Grand
+1.2 SPORTS PLUS VTVT,Manual,49538,1st Owner,Petrol,DL-11,695000,2019,Hyundai,Elite
+VXI,Manual,57871,1st Owner,Petrol,DL-3C,533000,2018,Maruti,Swift
+COMFORTLINE 1.0 TSI MT,Manual,13703,1st Owner,Petrol,DL-7C,803000,2021,VOLKSWAGEN,POLO
+ALPHA PETROL 1.2,Manual,25628,1st Owner,Petrol,HR-10,573000,2016,Maruti,Baleno
+MAGNA 1.2 KAPPA VTVT,Manual,57740,1st Owner,Petrol,DL-8C,389000,2015,Hyundai,Grand
+VXI,Manual,4178,1st Owner,Petrol,DL-2C,901000,2022,Maruti,Vitara
+SV MT PETROL,Manual,72662,1st Owner,Petrol,UP-14,584000,2015,Honda,City
+MAGNA 1.2 KAPPA VTVT,Manual,17815,1st Owner,Petrol,DL-9C,484000,2017,Hyundai,Grand
+V MT PETROL,Manual,31912,1st Owner,Petrol,DL-10,848000,2018,Honda,City
+1.0 AMBITION TSI MT,Manual,45347,1st Owner,Petrol,HR-01,893000,2020,SKODA,RAPID
+1.6 CRDI SX PLUS AUTO,Automatic,58009,2nd Owner,Diesel,UP-32,977000,2018,HYUNDAI,CRETA
+Magna 1.2 AT  VTVT,Automatic,51693,1st Owner,Petrol,DL-8C,475000,2017,Hyundai,Grand
+SPORTZ 1.2 KAPPA VTVT,Manual,24035,1st Owner,Petrol,DL-8C,454000,2016,Hyundai,Grand
+LXI,Manual,33016,2nd Owner,Petrol,DL-7C,298000,2014,Maruti,Wagon
+1.0 RXT Opt,Manual,15030,1st Owner,Petrol,DL-3C,361000,2018,Renault,Kwid
+ASTA 1.2,Manual,20590,1st Owner,Petrol,DL-4C,712000,2018,Hyundai,Elite
+VXI CNG,Manual,49841,1st Owner,CNG,DL-12,489000,2018,Maruti,CELERIO
+1.2 MAGNA PLUS VTVT,Manual,22634,2nd Owner,Petrol,DL-1C,629000,2019,Hyundai,Elite
+GTX 1.4 GDI AT PETROL,Automatic,13672,1st Owner,Petrol,UP-70,1441000,2019,KIA,SELTOS
+1.2 SV MT,Manual,51897,1st Owner,Petrol,DL-14,461000,2016,Honda,Jazz
+LXI CNG,Manual,65329,1st Owner,CNG,DL-9C,401000,2019,Maruti,Alto
+ZXI 1.3,Manual,78054,2nd Owner,Petrol,DL-9C,241000,2010,Maruti,SWIFT
+XZ 1.2,Manual,17620,1st Owner,Petrol,DL-9C,938000,2021,Tata,NEXON
+1.2 W6 MT,Manual,31346,1st Owner,Petrol,DL-3C,1011000,2021,MAHINDRA,XUV
+S MT PETROL,Manual,61408,2nd Owner,Petrol,DL-4C,449000,2013,Honda,City
+ALPHA PETROL 1.2,Manual,20599,2nd Owner,Petrol,HR-26,623000,2018,Maruti,Baleno
+MAGNA PLUS 1.2,Manual,33238,1st Owner,Petrol,HR-26,610000,2019,Hyundai,Elite
+1.2 TSI HIGHLINE PLUS AT,Automatic,48179,1st Owner,Petrol,HR-51,850000,2019,VOLKSWAGEN,VENTO
+SV MT PETROL,Manual,62994,1st Owner,Petrol,DL-1C,542000,2014,HONDA,CITY
+ASTA 1.2,Manual,62683,1st Owner,Petrol,DL-12,572000,2015,Hyundai,Elite
+1.0 TURBO GDI SX+ AT,Automatic,57801,1st Owner,Petrol,HR-76,929000,2019,HYUNDAI,VENUE
+SX 1.6 DIESEL,Manual,61764,2nd Owner,Diesel,DL-5C,993000,2018,HYUNDAI,CRETA
+HIGHLINE PLUS DSG 1.5,Automatic,59657,1st Owner,Diesel,DL-8C,759000,2019,Volkswagen,Ameo
+HIGHLINE A/T,Automatic,68377,1st Owner,Diesel,DL-1C,1996000,2018,VOLKSWAGEN,TIGUAN
+1.5 VXMT I DTEC,Manual,52767,1st Owner,Diesel,DL-10,645000,2018,HONDA,AMAZE
+N8 1.0 TURBO GDI DCT,Automatic,14958,1st Owner,Petrol,HR-14,1144000,2022,Hyundai,NEW
+LXI,Manual,11175,1st Owner,Petrol,DL-3C,591000,2020,Maruti,Swift
+COMFORTLINE 1.0 PETROL,Manual,27132,1st Owner,Petrol,DL-10,662000,2018,Volkswagen,Polo
+1.6 SX VTVT AT (O),Automatic,42423,1st Owner,Petrol,DL-12,933000,2017,Hyundai,Verna
+LXI,Manual,14058,1st Owner,Petrol,DL-2C,562000,2019,Maruti,Swift
+LX D 4*4 MT HT,Manual,16749,2nd Owner,Diesel,HR-24,1500000,2021,Mahindra,Thar
+LXI,Manual,27997,2nd Owner,Petrol,HR-36,336000,2018,Maruti,ALTO
+Sportz1.2 CRDI,Manual,68845,1st Owner,Diesel,UP-83,500000,2017,HYUNDAI,GRAND
+G SP,Manual,78652,1st Owner,Petrol,HR-29,361000,2014,Toyota,Etios
+LXI,Manual,51768,1st Owner,Petrol,DL-1C,546000,2020,Maruti,SWIFT
+1.2 W6 AT,Automatic,6970,1st Owner,Petrol,DL-12,1122000,2022,MAHINDRA,XUV
+HIGHLINE A/T,Automatic,75468,1st Owner,Diesel,DL-1C,1865000,2018,VOLKSWAGEN,TIGUAN
+SPORTZ 1.0T GDI IMT,Manual,15840,1st Owner,Petrol,UP-14,793000,2021,Hyundai,NEW
+1.2 i-VTEC S MT,Manual,50925,1st Owner,Petrol,UP-53,642000,2018,Honda,WR-V
+ZXI,Manual,48929,1st Owner,Petrol,DL-3C,458000,2014,Maruti,SWIFT
+MAGNA 1.2 KAPPA VTVT,Manual,30183,1st Owner,Petrol,DL-8C,465000,2017,Hyundai,Grand
+ZXI + AT SMART HYBRID,Manual,9124,1st Owner,Petrol,UP-14,1295000,2022,Maruti,BREZZA
+G MT,Manual,44145,1st Owner,Petrol,DL-1C,847000,2020,TOYOTA,YARIS
+VDI,Manual,85262,1st Owner,Diesel,DL-12,585000,2018,Maruti,Dzire
+ZDI Plus AMT,Automatic,82887,1st Owner,Diesel,DL-6C,625000,2018,Maruti,DZIRE
+SX AT 1.6 PETROL,Automatic,26003,2nd Owner,Petrol,HR-26,1220000,2019,Hyundai,Creta
+2.5 AT,Automatic,93626,1st Owner,Petrol,HR-26,1196000,2015,Toyota,Camry
+LXI,Manual,29670,1st Owner,Petrol,HR-29,568000,2021,Maruti,Swift
+LX D 4*4 MT HT,Manual,41433,1st Owner,Diesel,HR-54,1484250,2021,Mahindra,Thar
+ASTA 1.1 MT,Manual,41819,1st Owner,Petrol,DL-5C,456000,2019,HYUNDAI,NEW
+1.4 CRDI MT SX,Manual,40655,1st Owner,Diesel,DL-5C,928000,2019,Hyundai,VENUE
+1.2 V MT,Manual,35734,1st Owner,Petrol,UP-16,471000,2016,Honda,Jazz
+DELTA 1.2,Manual,32089,1st Owner,Petrol,DL-3C,487000,2018,Maruti,IGNIS
+DELTA PETROL 1.2,Manual,42431,1st Owner,Petrol,HR-26,676000,2021,Maruti,Baleno
+VXI,Manual,53883,1st Owner,Petrol,HR-26,366000,2019,Maruti,ALTO
+G,Manual,77156,1st Owner,Petrol,DL-10,278000,2013,Toyota,Etios
+ZXI+ DUAL TONE,Manual,30331,1st Owner,Petrol,HR-26,921000,2020,Maruti,Vitara
+ZETA CVT PETROL 1.2,Automatic,35131,2nd Owner,Petrol,UP-16,758000,2020,Maruti,BALENO
+RXL PETROL 104,Manual,33494,1st Owner,Petrol,DL-8C,687000,2017,Renault,Duster
+VXI AMT,Automatic,91,1st Owner,Petrol,HR-26,777200,2022,Maruti,Swift
+COMFORTLINE DIESEL 1.5,Manual,32652,1st Owner,Diesel,UP-14,759000,2019,VOLKSWAGEN,VENTO
+VXI AMT,Automatic,24549,2nd Owner,Petrol,DL-5C,448000,2018,Maruti,Wagon
+VXI ELATE LIMITED EDITION,Manual,52682,1st Owner,Petrol,DL-8C,316000,2014,Maruti,RITZ
+ZXI,Manual,170,1st Owner,Petrol,HR-26,996000,2021,Maruti,Vitara
+1.0 AMBITION TSI AT,Automatic,55243,1st Owner,Petrol,DL-10,932000,2020,Skoda,Rapid
+2.0 LIMITED,Manual,47136,1st Owner,Diesel,HR-26,1621000,2019,Jeep,Compass
+SIGMA PETROL 1.2,Manual,22354,1st Owner,Petrol,DL-12,603000,2020,Maruti,Baleno
+ASTA 1.2 (O),Manual,40106,1st Owner,Petrol,DL-7C,614000,2016,HYUNDAI,ELITE
+VXI,Manual,48863,1st Owner,Petrol,HR-26,404000,2018,Maruti,WAGON
+VXI,Manual,48669,1st Owner,Petrol,DL-3C,380000,2013,Maruti,SWIFT
+ZDI PLUS,Manual,50465,1st Owner,Diesel,UP-14,770000,2018,Maruti,VITARA
+DELTA 1.2 K12,Manual,39910,2nd Owner,Petrol,DL-7C,526000,2018,Maruti,Baleno
+ZDI,Manual,31439,1st Owner,Diesel,DL-4C,880000,2020,Maruti,Vitara
+ZXI AMT,Automatic,1570,1st Owner,Petrol,DL-12,924000,2022,Maruti,Dzire
+VXI,Manual,44893,1st Owner,Petrol,DL-1C,446000,2019,Maruti,CELERIO
+SPORTZ (O) 1.2 KAPPA VTVT,Manual,36974,1st Owner,Petrol,UP-14,488000,2017,Hyundai,Grand
+SIGMA 1.2,Manual,35874,2nd Owner,Petrol,DL-12,434000,2018,Maruti,IGNIS
+1.2L I-VTEC S MT,Manual,27235,1st Owner,Petrol,HR-36,677000,2018,Honda,WR-V
+DELTA PETROL 1.2,Manual,33836,1st Owner,Petrol,DL-3C,615000,2019,Maruti,Baleno
+V MT PETROL,Manual,35601,1st Owner,Petrol,UP-16,774000,2017,Honda,City
+1.0 TREND+ (ECOBOOST),Manual,59612,1st Owner,Petrol,DL-10,632000,2016,Ford,Ecosport
+S MT PETROL,Manual,63533,1st Owner,Petrol,HR-26,415000,2012,Honda,City
+TITANIUM 1.5L PETROL,Manual,22270,1st Owner,Petrol,UP-16,793000,2019,FORD,ECOSPORT
+ZXI AMT,Automatic,44995,2nd Owner,Petrol,DL-8C,399000,2016,Maruti,Celerio
+GL,Manual,100530,1st Owner,Petrol,DL-3C,799000,2015,Toyota,Corolla
+VXI AMT,Automatic,63382,2nd Owner,Petrol,DL-5C,361000,2015,Maruti,Celerio
+SPORTZ AMT,Automatic,35686,1st Owner,Petrol,DL-10,551000,2020,Hyundai,NEW
+VXI,Manual,25145,1st Owner,Petrol,HR-98,475000,2021,Maruti,Celerio
+1.6 SX VTVT,Manual,12938,1st Owner,Petrol,DL-7C,1137000,2019,Hyundai,Creta
+VL CVT PETROL,Automatic,51062,1st Owner,Petrol,DL-10,934000,2015,TOYOTA,COROLLA
+GT TDI,Manual,85697,1st Owner,Diesel,UP-16,744000,2019,Volkswagen,POLO
+TREND 1.5L PETROL,Manual,73522,1st Owner,Petrol,UP-14,600000,2017,Ford,Ecosport
+VXI,Manual,48730,1st Owner,Petrol,HR-26,552000,2017,Maruti,Dzire
+SPORTZ 1.2 AT,Automatic,22517,2nd Owner,Petrol,DL-3C,250000,2011,Hyundai,i10
+VXI AMT,Automatic,49929,1st Owner,Petrol,DL-9C,625000,2018,Maruti,DZIRE
+HTK 1.5 PETROL,Manual,7221,1st Owner,Petrol,HR-26,1132000,2019,KIA,SELTOS
+DELTA PETROL 1.2,Manual,17266,1st Owner,Petrol,HR-26,643000,2019,Maruti,Baleno
+1.2 V AT,Automatic,65103,1st Owner,Petrol,DL-5C,523000,2015,Honda,Jazz
+1.0 RXT Opt AT,Automatic,13095,1st Owner,Petrol,DL-3C,472000,2020,Renault,Kwid
+DELTA PETROL 1.2,Manual,39745,1st Owner,Petrol,DL-12,562000,2017,Maruti,BALENO
+DELTA PETROL 1.2,Manual,41373,1st Owner,Petrol,DL-2C,517000,2016,Maruti,Baleno
+P8,Manual,83004,1st Owner,Diesel,DL-8C,819000,2018,Mahindra,TUV
+MAGNA 1.2 KAPPA VTVT,Manual,19713,1st Owner,Petrol,HR-26,577000,2020,HYUNDAI,GRAND
+1.2 EMT I VTEC,Manual,27324,1st Owner,Petrol,DL-13,394000,2014,Honda,Amaze
+ALPHA 1.4 VVT,Manual,98200,1st Owner,Petrol,DL-8C,653000,2017,Maruti,Ciaz
+V MT PETROL,Manual,33591,1st Owner,Petrol,DL-10,698000,2016,Honda,City
+HTX 1.5 PETROL,Manual,9337,1st Owner,Petrol,HR-98,1496000,2021,KIA,SELTOS
+XZ+ CNG 1.2 RTN,Manual,30399,1st Owner,CNG,HR-26,757000,2022,Tata,Tiago
+ZETA PETROL 1.2,Manual,55153,1st Owner,Petrol,DL-2C,663000,2019,Maruti,Baleno
+J CVT,Automatic,38184,1st Owner,Petrol,DL-10,903000,2020,Toyota,YARIS
+ASTA 1.2,Manual,51113,1st Owner,Petrol,UP-78,503000,2014,HYUNDAI,ELITE
+1.0 LXI (O),Manual,38582,1st Owner,Petrol,HR-76,449000,2019,Maruti,New
+ALPHA 1.5 SHVS PETROL,Manual,42142,2nd Owner,Petrol,HR-26,825000,2018,Maruti,CIAZ
+1.4 CRDI MT SX,Manual,88117,1st Owner,Diesel,HR-29,845000,2019,Hyundai,VENUE
+DELTA PETROL 1.2,Manual,42192,1st Owner,Petrol,DL-9C,558000,2017,Maruti,Baleno
+DELTA 1.4 AT PETROL,Automatic,45176,1st Owner,Petrol,DL-9C,779000,2017,Maruti,CIAZ
+HTK+ 1.5D MT,Manual,27698,1st Owner,Diesel,UP-32,1034000,2021,KIA,SONET
+VXI AMT,Automatic,65851,1st Owner,Petrol,DL-8C,394000,2016,Maruti,Celerio
+XZ+ OPT PETROL,Manual,22652,1st Owner,Petrol,HR-26,952000,2020,Tata,NEXON
+HIGHLINE PLUS 1.5L DIESEL,Manual,36305,1st Owner,Diesel,HR-51,644000,2018,Volkswagen,Polo
+MAGNA 1.2 KAPPA VTVT,Manual,27213,2nd Owner,Petrol,DL-1C,475000,2018,Hyundai,Grand
+SPORTZ CNG,Manual,66932,1st Owner,CNG,DL-8C,469000,2018,Hyundai,NEW
+DELTA PETROL 1.2,Manual,23526,1st Owner,Petrol,DL-8C,563000,2017,Maruti,BALENO
+V MT PETROL,Manual,67367,1st Owner,Petrol,DL-4C,636000,2015,Honda,City
+SPORTZ 1.2,Manual,52575,1st Owner,Petrol,UP-16,631000,2018,Hyundai,Elite
+G AT,Automatic,75836,1st Owner,Petrol,DL-10,1139000,2017,TOYOTA,COROLLA
+CRDE 4X4 BS IV,Manual,21244,1st Owner,Diesel,DL-10,882000,2018,Mahindra,Thar
+SPORTZ 1.2 (O),Manual,20466,1st Owner,Petrol,DL-1C,604000,2015,HYUNDAI,ELITE
+LXI,Manual,8977,1st Owner,Petrol,DL-8C,526000,2022,Maruti,Celerio
+STYLE 1.0TSI MT,Manual,13030,1st Owner,Petrol,UP-78,1210000,2021,Skoda,Rapid
+ZETA 1.2,Manual,9558,1st Owner,Petrol,DL-5C,632000,2021,Maruti,IGNIS
+ZXI,Manual,23364,1st Owner,Petrol,DL-5C,611000,2015,Maruti,Ciaz
+XZA PLUS GOLD,Automatic,20424,1st Owner,Diesel,UP-16,2186000,2022,Tata,Safari
+SIGMA 1.5 SHVS,Manual,17916,1st Owner,Petrol,UP-85,880000,2021,Maruti,S
+SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,22284,1st Owner,Petrol,DL-4C,558000,2017,Hyundai,Grand
+XZ 1.2 REVOTRON,Manual,38715,1st Owner,Petrol,UP-16,503000,2019,Tata,Tiago
+1.2 SMT I VTEC,Manual,70134,1st Owner,Petrol,DL-4C,367000,2014,HONDA,AMAZE
+1.2 S,Manual,37975,2nd Owner,Petrol,DL-8C,541000,2015,Hyundai,i20
+DELTA PETROL 1.2,Manual,89081,1st Owner,CNG,HR-12,559000,2017,Maruti,BALENO
+ZXI,Manual,79832,1st Owner,Petrol,HR-26,565000,2014,Maruti,Ciaz
+ZDI PLUS AMT,Automatic,89151,1st Owner,Diesel,UP-16,837000,2018,Maruti,Vitara
+VXI,Manual,52784,1st Owner,Petrol,DL-2C,308000,2012,Maruti,Swift
+ZETA PETROL 1.2,Manual,14813,1st Owner,Petrol,UP-16,715000,2020,Maruti,Baleno
+LXI,Manual,66583,1st Owner,Petrol,DL-8C,542000,2020,Maruti,Swift
+S 1.2,Manual,50990,2nd Owner,Petrol,HR-26,427000,2015,HYUNDAI,XCENT
+DELTA PETROL 1.2,Manual,15569,1st Owner,Petrol,DL-2C,597000,2018,Maruti,Baleno
+SPORTZ 1.2 KAPPA VTVT,Manual,77808,1st Owner,Petrol,UP-14,346000,2014,Hyundai,Grand
+VXI CNG,Manual,81143,1st Owner,CNG,DL-9C,462000,2018,Maruti,Celerio
+1.2 SPORTS PLUS VTVT,Manual,30152,2nd Owner,Petrol,HR-26,662000,2019,Hyundai,Elite
+ZETA PETROL 1.2,Manual,0,1st Owner,Petrol,DL-8C,760000,2019,Maruti,BALENO
+MAGNA 1.2 VTVT,Manual,15736,1st Owner,Petrol,DL-10,478000,2018,Hyundai,Grand
+DELTA PETROL 1.2,Manual,74161,2nd Owner,CNG,HR-34,596000,2019,Maruti,Baleno
+1.2 S AT,Automatic,68766,1st Owner,Petrol,DL-4C,515000,2016,Honda,Jazz
+DELTA 1.4 VVT,Manual,66931,1st Owner,Petrol,DL-7C,660000,2017,Maruti,Ciaz
+SPORTZ 1.1,Manual,29826,2nd Owner,Petrol,HR-26,437000,2019,Hyundai,NEW
+1.8 G,Manual,66466,2nd Owner,Petrol,DL-12,408000,2011,Toyota,COROLLA
+ASTA 1.2 (O),Manual,72417,2nd Owner,Petrol,DL-12,541000,2015,HYUNDAI,ELITE
+ZXI,Manual,42705,1st Owner,Petrol,DL-3C,628000,2018,Maruti,Swift
+LXI,Manual,70182,1st Owner,Petrol,DL-12,545000,2019,Maruti,SWIFT
+XZ PETROL,Manual,39895,1st Owner,Petrol,DL-7C,646000,2021,Tata,TIGOR
+LXI CNG (O) 1.0,Manual,12121,1st Owner,CNG,HR-26,582000,2021,Maruti,New
+ZDI PLUS DUAL TONE,Manual,68208,1st Owner,Diesel,HR-26,879000,2019,Maruti,Vitara
+DELTA 1.2 K12,Manual,92670,1st Owner,Petrol,DL-2C,426000,2018,Maruti,IGNIS
+VXI 1.0,Manual,3741,1st Owner,Petrol,HR-51,612000,2022,Maruti,New
+RXL,Manual,19729,1st Owner,Petrol,DL-8C,373000,2019,Renault,Kwid
+W11,Manual,32204,1st Owner,Diesel,DL-1C,1375000,2019,Mahindra,XUV500
+MAGNA 1.2,Manual,38043,1st Owner,Petrol,DL-7C,523000,2016,Hyundai,Elite
+VXI,Manual,78540,1st Owner,Petrol,DL-9C,453000,2015,Maruti,Swift
+ZETA 1.3,Manual,37911,1st Owner,Diesel,DL-8C,662000,2017,Maruti,S
+ZXI,Manual,48335,1st Owner,Petrol,DL-9C,429000,2018,Maruti,CELERIO
+LXI (O),Manual,43904,2nd Owner,Petrol,DL-12,446000,2017,Maruti,SWIFT
+VXI CNG,Manual,81406,1st Owner,CNG,DL-9C,473000,2018,Maruti,Celerio
+1.4 E PLUS CRDI,Manual,98513,1st Owner,Diesel,HR-36,782000,2017,Hyundai,Creta
+1.5 SMT I DTEC,Manual,82187,1st Owner,Diesel,DL-10,564000,2018,Honda,Amaze
+W11 (O),Manual,23017,1st Owner,Diesel,DL-12,1503000,2019,Mahindra,XUV500
+ASTA 1.2,Manual,24418,1st Owner,Petrol,DL-8C,654000,2017,HYUNDAI,ELITE
+DELTA PETROL 1.2,Manual,28131,2nd Owner,Petrol,DL-1C,538000,2016,Maruti,Baleno
+T (O),Manual,7330,1st Owner,Petrol,HR-72,400000,2021,DATSUN,REDI
+1.2L I-VTEC E,Manual,13328,1st Owner,Petrol,HR-26,672000,2020,Honda,Amaze
+1.6 CRDI SX,Manual,37640,1st Owner,Diesel,HR-51,1052000,2019,Hyundai,Verna
+E PLUS 1.4 DIESEL,Manual,93155,2nd Owner,Diesel,UP-16,852000,2018,HYUNDAI,CRETA
+ZXI,Manual,70706,1st Owner,Petrol,DL-2C,442000,2014,Maruti,Swift
+ZETA PETROL 1.2,Manual,29157,1st Owner,Petrol,DL-9C,568000,2017,Maruti,Baleno
+2.4 VX 7 STR,Manual,72147,1st Owner,Diesel,HR-36,1444000,2016,Toyota,Innova
+1.5 i-DTEC S MT,Manual,61469,1st Owner,Diesel,HR-26,612000,2017,HONDA,WR-V
+ RXT (O) AMT 1.0 DUAL TONE,Automatic,6642,1st Owner,Petrol,UP-14,842000,2022,Renault,Kiger
+1.0 AMBITION TSI AT,Automatic,10713,1st Owner,Petrol,DL-10,1051000,2020,Skoda,Rapid
+DELTA PETROL 1.2,Manual,61195,2nd Owner,Petrol,UP-14,579000,2019,Maruti,Baleno
+LXI,Manual,2297,2nd Owner,Petrol,DL-14,582000,2020,Maruti,Swift
+ZDI,Manual,40587,2nd Owner,Diesel,DL-3C,719000,2018,Maruti,Vitara
+HTK PLUS 1.5 DIESEL,Manual,84335,1st Owner,Diesel,DL-12,1248000,2020,KIA,SELTOS
+1.5TITANIUM TDCI,Manual,45730,1st Owner,Diesel,DL-12,758000,2018,Ford,Ecosport
+1.2 V CVT I VTEC,Automatic,21826,1st Owner,Petrol,DL-4C,833000,2021,Honda,Amaze
+GLS 4WD AT DIESEL,Automatic,25149,1st Owner,Diesel,UP-16,1846000,2018,HYUNDAI,TUCSON
+VX CVT PETROL,Automatic,75891,1st Owner,Petrol,UP-32,898000,2018,HONDA,CITY
+1.2L I-VTEC S,Manual,47657,1st Owner,Petrol,DL-3C,635000,2020,Honda,Amaze
+SX AT 1.6 DIESEL,Automatic,80459,1st Owner,Diesel,UP-14,1274000,2019,HYUNDAI,CRETA
+V MT PETROL,Manual,19216,1st Owner,Petrol,UP-16,960000,2021,Honda,City
+1.6 SX VTVT (O) EXECUTIVE,Manual,81872,1st Owner,Petrol,DL-12,1160000,2019,Hyundai,Creta
+1.2 SPORTS PLUS VTVT,Manual,38241,1st Owner,Petrol,DL-1C,770000,2020,Hyundai,Elite
+ASTA AT 1.2 KAPPA VTVT,Automatic,75171,1st Owner,Petrol,DL-2C,423000,2015,Hyundai,Grand
+MAGNA CNG,Manual,19016,2nd Owner,CNG,DL-1C,505000,2020,Hyundai,NEW
+V MT PETROL,Manual,49089,1st Owner,Petrol,DL-10,829000,2018,Honda,City
+SPORTZ (O) 1.2 AT VTVT,Automatic,30210,1st Owner,Petrol,DL-8C,576000,2017,Hyundai,Grand
+SV MT PETROL,Manual,60378,1st Owner,Petrol,UP-32,521000,2014,HONDA,CITY
+ZDI + AMT,Automatic,41271,1st Owner,Diesel,DL-2C,848000,2018,Maruti,VITARA
+S 1.0 TURBO IMT,Manual,23036,1st Owner,Petrol,DL-10,1033000,2021,Hyundai,VENUE
+SPORTZ 1.1,Manual,10632,1st Owner,Petrol,DL-12,481000,2019,HYUNDAI,NEW
+1.5 TREND TI VCT,Manual,20728,2nd Owner,CNG,HR-29,755000,2019,Ford,Ecosport
+J MT,Manual,8465,1st Owner,Petrol,DL-10,988000,2021,TOYOTA,YARIS
+DELTA PETROL 1.2,Manual,44141,1st Owner,Petrol,DL-8C,668000,2021,Maruti,Baleno
+MAGNA 1.2 KAPPA VTVT,Manual,35810,2nd Owner,CNG,HR-26,457000,2017,HYUNDAI,GRAND
+ASTA 1.2,Manual,32296,1st Owner,Petrol,DL-2C,596000,2016,Hyundai,Elite
+MAGNA 1.5 MT,Manual,11726,1st Owner,Diesel,HR-98,829000,2021,Hyundai,NEW
+LXI,Manual,23760,1st Owner,Petrol,DL-2C,324000,2014,Maruti,Wagon
+DELTA 1.4 MT PETROL,Manual,83946,2nd Owner,Petrol,HR-26,626000,2017,Maruti,CIAZ
+HTK PLUS AT 1.5 DIESEL,Automatic,49488,1st Owner,Diesel,HR-26,1377000,2020,KIA,SELTOS
+ALPHA 1.5 SHVS PETROL,Manual,55980,2nd Owner,Petrol,DL-12,875000,2018,Maruti,CIAZ
+SV MT PETROL,Manual,47670,2nd Owner,Petrol,DL-4C,615000,2015,HONDA,CITY
+LXI,Manual,55080,1st Owner,Petrol,DL-2C,432000,2015,Maruti,Swift
+VXI AMT,Automatic,70510,2nd Owner,Petrol,HR-51,692000,2020,Maruti,Dzire
+SX PLUS 1.0 TURBO DCT,Automatic,18194,1st Owner,Petrol,DL-5C,1124000,2020,Hyundai,VENUE
+DELTA PETROL 1.2,Manual,24674,2nd Owner,Petrol,DL-6C,601000,2018,Maruti,Baleno
+SIGMA 1.4 VVT,Manual,69680,1st Owner,Petrol,HR-26,611000,2017,Maruti,CIAZ
+VXI,Manual,55483,1st Owner,Petrol,DL-1C,548000,2018,Maruti,Swift
+MAGNA 1.2 KAPPA VTVT,Manual,85759,2nd Owner,CNG,HR-51,472000,2018,Hyundai,Grand
+ZDI PLUS DUAL TONE,Manual,48535,1st Owner,Diesel,DL-12,763000,2018,Maruti,Vitara
+GTX + AT PETROL,Automatic,28506,1st Owner,Petrol,HR-26,1633000,2020,KIA,SELTOS
+1.2 SX MT I VTEC,Manual,55379,1st Owner,Petrol,DL-3C,423000,2014,Honda,Amaze
+ALPHA PETROL 1.2,Manual,22244,1st Owner,Petrol,DL-6C,778000,2020,Maruti,Baleno
+VX AT I DTEC,Automatic,69222,2nd Owner,Diesel,HR-26,740000,2019,Honda,Amaze
+1.2 S MT I VTEC,Manual,43956,1st Owner,Petrol,DL-2C,313000,2013,HONDA,BRIO
+1.5L I-VTEC VX CVT,Automatic,34851,1st Owner,Petrol,UP-78,703600,2015,Honda,City
+ZETA PETROL 1.2,Manual,8924,1st Owner,Petrol,UP-14,671000,2019,Maruti,Baleno
+LXI CNG 1.0 L,Manual,23040,1st Owner,CNG,DL-11,568000,2020,Maruti,New
+S 1.2 CNG,Manual,41871,1st Owner,CNG,DL-12,741000,2020,HYUNDAI,AURA
+J CVT,Automatic,15778,1st Owner,Petrol,HR-98,1046000,2021,Toyota,YARIS
+XL Turbo CVT,Automatic,21967,1st Owner,Petrol,DL-8C,886000,2021,NISSAN,MAGNITE
+ZDI PLUS,Manual,7749,1st Owner,Diesel,DL-9C,893000,2018,Maruti,Vitara
+GL,Manual,45060,2nd Owner,Petrol,DL-10,1153000,2017,TOYOTA,COROLLA
+SPORTZ (O) 1.2 KAPPA VTVT,Manual,37646,1st Owner,Petrol,DL-4C,510000,2017,Hyundai,Grand
+1.2L I-VTEC VX,Manual,80224,1st Owner,Petrol,DL-3C,470000,2015,HONDA,JAZZ
+SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,56054,1st Owner,Petrol,DL-10,579000,2018,Hyundai,Grand
+ZXI AMT,Automatic,37338,1st Owner,Petrol,DL-8C,671000,2018,Maruti,Swift
+XZ+ 1.5,Manual,10422,1st Owner,Diesel,HR-26,1189000,2021,Tata,NEXON
+LXI CNG 1.0 L,Manual,14396,1st Owner,CNG,DL-8C,589000,2021,Maruti,New
+VDI,Manual,49317,1st Owner,Diesel,DL-6C,727000,2018,Maruti,Vitara
+ASTA 1.2 (O) VTVT,Manual,25073,1st Owner,Petrol,DL-3C,468000,2016,Hyundai,Grand
+GTX + AT PETROL,Automatic,18651,1st Owner,Petrol,DL-14,1646000,2020,KIA,SELTOS
+1.6 SX (O) CRDI,Manual,60805,2nd Owner,Diesel,UP-16,928000,2018,HYUNDAI,CRETA
+VDI OPT,Manual,34238,1st Owner,Diesel,DL-1C,750000,2018,Maruti,Vitara
+Alpha 1.5 Diesel,Manual,60812,2nd Owner,Diesel,DL-3C,985000,2019,Maruti,CIAZ
+LXI CNG,Manual,41807,1st Owner,CNG,DL-3C,383000,2019,Maruti,Alto
+DELTA PETROL 1.2,Manual,19875,1st Owner,Petrol,DL-8C,716000,2021,Maruti,Baleno
+1.6 CRDI SX PLUS AUTO,Automatic,60316,1st Owner,Diesel,DL-8C,1192000,2018,Hyundai,Creta
+LX PETROL HT 4WD AT,Automatic,12949,1st Owner,Petrol,UP-16,1503000,2021,Mahindra,Thar
+DELTA PETROL 1.2,Manual,55725,1st Owner,Petrol,DL-9C,506000,2017,Maruti,Baleno
+1.5TITANIUM TDCI,Manual,51665,1st Owner,Diesel,HR-34,658000,2017,Ford,Ecosport
+1.2 SX MT I VTEC,Manual,29081,1st Owner,Petrol,DL-2C,521000,2016,HONDA,AMAZE
+1.6 S,Manual,78700,1st Owner,Petrol,DL-8C,800000,2016,Hyundai,Creta
+ZETA CVT PETROL 1.2,Automatic,32334,1st Owner,Petrol,UP-14,573000,2016,Maruti,Baleno
+MAGNA (O) 1.2,Manual,72982,1st Owner,Petrol,HR-29,283000,2011,HYUNDAI,I20
+XZA 1.2 REVOTRON,Automatic,27451,2nd Owner,Petrol,HR-26,535000,2018,Tata,Tiago
+V MT PETROL,Manual,32812,1st Owner,Petrol,HR-26,832000,2018,Honda,City
+1.6 SX VTVT,Manual,21153,1st Owner,Petrol,UP-16,1149000,2019,Hyundai,Creta
+ZXI PLUS,Manual,10684,1st Owner,Petrol,HR-29,966000,2020,Maruti,VITARA
+1.2 SX MT I VTEC,Manual,26535,1st Owner,Petrol,DL-8C,515000,2016,Honda,Amaze
+ZETA 1.5,Manual,16158,1st Owner,Petrol,UP-32,942000,2021,Maruti,S
+ALPHA 1.5 MT VTVT SHVS,Manual,18699,1st Owner,Petrol,HR-23,956000,2020,Maruti,Ciaz
+DELTA PETROL 1.2,Manual,57559,1st Owner,Petrol,DL-8C,550000,2017,Maruti,Baleno
+DELTA PETROL 1.2,Manual,28991,1st Owner,Petrol,DL-2C,627000,2019,Maruti,Baleno
+LXI CNG,Manual,27451,1st Owner,CNG,DL-6C,456000,2021,Maruti,Alto
+DELTA PETROL 1.2,Manual,51415,1st Owner,Petrol,DL-8C,522000,2016,Maruti,Baleno
+MAGNA EXECUTIVE 1.2,Manual,62148,2nd Owner,Petrol,DL-4C,514000,2017,Hyundai,Elite
+1.5L I-DTEC VX MT,Manual,8125,1st Owner,Diesel,HR-51,1022700,2021,HONDA,WR-V
+MAGNA 1.2,Manual,30873,1st Owner,Petrol,DL-9C,522000,2016,Hyundai,Elite
+DELTA 1.2,Manual,27641,1st Owner,Petrol,HR-26,505000,2019,Maruti,IGNIS
+VDI,Manual,68644,2nd Owner,Diesel,HR-26,602000,2018,Maruti,Dzire
+ASTA 1.2 (O),Manual,84534,2nd Owner,Petrol,UP-14,587000,2016,HYUNDAI,ELITE
+2.8 ZX AT 7 STR,Automatic,49585,1st Owner,Diesel,HR-29,2015000,2019,Toyota,INNOVA
+1.2 EX MT I VTEC,Manual,65641,1st Owner,Petrol,HR-26,310000,2013,Honda,Brio
+1.2 i-VTEC VX MT,Manual,38273,2nd Owner,Petrol,UP-85,723000,2019,HONDA,WR-V
+SX 1.0 TURBO,Manual,37597,2nd Owner,Petrol,DL-2C,892000,2019,HYUNDAI,VENUE
+G MT,Manual,72618,1st Owner,Petrol,HR-36,800000,2020,Toyota,YARIS
+DELTA PETROL 1.2,Manual,39961,1st Owner,Petrol,HR-51,557000,2017,Maruti,Baleno
+M6 8 STR,Manual,35590,1st Owner,Diesel,HR-26,1065000,2019,Mahindra,MARAZZO
+1.2 SMT I VTEC,Manual,49648,1st Owner,Petrol,UP-14,597000,2019,Honda,Amaze
+ALPHA PETROL 1.2,Manual,10869,1st Owner,Petrol,HR-26,772000,2020,Maruti,Baleno
+1.5 TITANIUM TI VCT,Manual,23356,2nd Owner,Petrol,HR-26,787000,2019,Ford,Ecosport
+ZETA PETROL 1.2,Manual,24713,1st Owner,Petrol,DL-7C,739000,2019,Maruti,Baleno
+S MT PETROL,Manual,96271,1st Owner,Petrol,DL-3C,437000,2013,Honda,City
+SX MT,Manual,55985,1st Owner,Diesel,HR-30,1502000,2020,Hyundai,Creta
+ASTA 1.2 KAPPA VTVT,Manual,82117,2nd Owner,Petrol,DL-1C,428000,2015,HYUNDAI,GRAND
+ZDI AMT,Automatic,74766,1st Owner,Diesel,DL-3C,922000,2019,Maruti,Vitara
+SHVS VDI,Manual,60895,1st Owner,Diesel,HR-51,594000,2017,Maruti,CIAZ
+GLS 2WD AT PETROL,Automatic,74977,2nd Owner,Petrol,DL-4C,1321000,2016,Hyundai,TUCSON
+SPORTZ 1.2,Manual,84176,1st Owner,Petrol,DL-3C,516000,2015,HYUNDAI,ELITE
+1.2L I-VTEC VX MT,Manual,41825,1st Owner,Petrol,HR-26,804000,2018,Honda,WR-V
+ALPHA CVT PETROL 1.2,Automatic,66714,1st Owner,Petrol,HR-70,730000,2019,Maruti,Baleno
+VXI,Manual,1,1st Owner,Petrol,HR-26,404000,2020,Maruti,S
+ZETA 1.5 SHVS VVT MT,Manual,54326,1st Owner,Petrol,UP-16,892000,2021,Maruti,CIAZ
+ZDI PLUS,Manual,64938,1st Owner,Diesel,DL-9C,814000,2018,Maruti,Vitara
+1.0 RXZ,Manual,11325,1st Owner,Petrol,DL-12,800000,2022,Renault,TRIBER
+SX AT 1.6 DIESEL,Automatic,57263,1st Owner,Diesel,UP-16,1130000,2018,Hyundai,Creta
+VXI,Manual,12255,1st Owner,Petrol,DL-3C,482000,2015,Maruti,Swift
+DELTA PETROL 1.2,Manual,43381,1st Owner,Petrol,DL-8C,566000,2017,Maruti,Baleno
+LX HT PETROL 4WD MT,Manual,8170,1st Owner,Petrol,HR-51,1494000,2021,Mahindra,Thar
+LXI,Manual,48622,2nd Owner,Petrol,HR-26,153000,2010,Maruti,ALTO
+VXI,Manual,79356,1st Owner,Petrol,UP-85,461000,2015,Maruti,SWIFT
+ZDI PLUS,Manual,41612,1st Owner,Diesel,DL-12,815000,2019,Maruti,VITARA
+MAGNA 1.2 KAPPA VTVT,Manual,42956,2nd Owner,Petrol,DL-9C,425000,2017,Hyundai,Grand
+LXI,Manual,49661,1st Owner,Petrol,DL-5C,553000,2019,Maruti,Swift
+ZDI PLUS,Manual,91454,1st Owner,Diesel,DL-1C,783000,2018,Maruti,Vitara
+LXI,Manual,1994,2nd Owner,Petrol,HR-51,559000,2019,Maruti,Swift
+1.6 CRDI SX PLUS AUTO,Automatic,80448,1st Owner,Diesel,HR-26,1238000,2018,HYUNDAI,CRETA
+VXI CNG,Manual,84583,1st Owner,CNG,DL-9C,519000,2020,Maruti,Celerio
+ZDI AMT,Automatic,40155,1st Owner,Diesel,DL-9C,927000,2019,Maruti,Vitara
+1.2L I-VTEC S,Manual,8183,1st Owner,Petrol,UP-16,737000,2021,Honda,Amaze
+ZDI PLUS AMT,Automatic,78332,1st Owner,Diesel,DL-1C,658000,2018,Maruti,Dzire
+VXI,Manual,11716,1st Owner,Petrol,UP-14,411000,2014,Maruti,Swift
+XZ PETROL,Manual,17780,1st Owner,Petrol,DL-9C,731000,2020,TATA,ALTROZ
+LXI CNG (O) 1.0,Manual,36429,1st Owner,CNG,HR-76,601000,2022,Maruti,New
+1.2L I-VTEC V AT,Automatic,25163,1st Owner,Petrol,HR-26,654000,2017,HONDA,JAZZ
+1.2 V CVT I VTEC,Automatic,40271,1st Owner,Petrol,HR-26,719000,2019,Honda,Amaze
+VDI,Manual,28244,1st Owner,Diesel,DL-3C,810000,2019,Maruti,Vitara
+XMA PETROL,Automatic,21958,1st Owner,Petrol,DL-2C,840000,2019,TATA,NEXON
+VXI+ AMT,Automatic,37432,2nd Owner,Petrol,DL-9C,438000,2017,Maruti,Wagon
+ZDI PLUS AMT,Automatic,48600,1st Owner,Diesel,DL-6C,862000,2018,Maruti,VITARA
+1.2 i-VTEC VX MT,Manual,15224,1st Owner,Petrol,UP-85,908000,2021,Honda,WR-V
+ZXI PLUS AMT DUAL TONE,Automatic,11545,2nd Owner,Petrol,DL-12,858000,2021,Maruti,Swift
+VXI OPT,Manual,45540,1st Owner,Petrol,DL-2C,307000,2015,Maruti,Alto
+ALPHA 1.5 SHVS PETROL,Manual,15387,1st Owner,Petrol,DL-6C,915000,2018,Maruti,CIAZ
+ZDI,Manual,45655,1st Owner,Diesel,DL-8C,801000,2018,Maruti,Vitara
+MAGNA PLUS OPTIONAL,Manual,33233,1st Owner,Petrol,UP-21,365000,2018,Hyundai,Eon
+DELTA CVT PETROL 1.2,Automatic,55821,1st Owner,Petrol,UP-14,539000,2016,Maruti,Baleno
+XE 1.2 REVOTRON,Manual,19811,1st Owner,Petrol,HR-51,579000,2021,TATA,TIAGO
+MAGNA 1.2 KAPPA VTVT,Manual,63706,1st Owner,Petrol,DL-8C,382000,2015,Hyundai,Grand
+W6 1.5 DIESEL,Manual,31287,1st Owner,Diesel,HR-51,874000,2019,MAHINDRA,XUV
+LXI (O),Manual,49414,2nd Owner,Petrol,DL-1C,430000,2016,Maruti,Swift
+XZ+ OPT PETROL,Manual,12392,1st Owner,Petrol,HR-98,1046650,2021,Tata,NEXON
+LX D 4*4 MT HT,Manual,11271,1st Owner,Diesel,HR-26,1623000,2021,Mahindra,Thar
+ZXI PLUS AGS,Automatic,1473,1st Owner,Petrol,DL-12,669000,2021,Maruti,Celerio
+ALPHA PETROL 1.2,Manual,10393,1st Owner,Petrol,DL-9C,777000,2020,Maruti,BALENO
+VXI,Manual,84447,1st Owner,Petrol,DL-8C,412000,2014,Maruti,SWIFT
+VXI,Manual,44546,1st Owner,Petrol,DL-5C,683000,2019,Maruti,Dzire
+V MT PETROL,Manual,39749,1st Owner,Petrol,HR-26,753000,2017,Honda,City
+VDI,Manual,58894,1st Owner,Diesel,DL-3C,777000,2019,Maruti,Vitara
+	T+ CNG,Manual,13444,1st Owner,CNG,DL-11,704000,2022,HYUNDAI,XCENT
+VX MT PETROL,Manual,7802,1st Owner,Petrol,HR-26,1152000,2020,HONDA,CITY
+ZETA PETROL 1.2,Manual,22982,2nd Owner,Petrol,DL-5C,686000,2020,Maruti,Baleno
+VXI,Manual,78930,1st Owner,Petrol,DL-8C,223000,2011,Maruti,WAGON
+S MT PETROL,Manual,45073,1st Owner,Petrol,HR-26,427000,2012,HONDA,CITY
+ZDI PLUS AMT,Automatic,57643,1st Owner,Diesel,DL-12,857000,2018,Maruti,Vitara
+LXI,Manual,21693,1st Owner,Petrol,DL-2C,560000,2019,Maruti,Swift
+ALPHA 1.2 AMT,Automatic,52777,1st Owner,Petrol,UP-16,603000,2018,Maruti,IGNIS
+VXI,Manual,8658,1st Owner,Petrol,DL-6C,345000,2012,Maruti,Swift
+ZXI CNG,Manual,6505,1st Owner,CNG,HR-29,946000,2022,Maruti,Dzire
+DELTA PETROL 1.2,Manual,23735,1st Owner,Petrol,HR-35,626000,2020,Maruti,Baleno
+1.2 SPORTS PLUS VTVT,Manual,28450,1st Owner,Petrol,UP-70,724000,2019,Hyundai,Elite
+ZXI,Manual,49939,2nd Owner,Petrol,HR-26,379000,2015,Maruti,Celerio
+DELTA PETROL 1.2,Manual,31853,1st Owner,Petrol,HR-12,669000,2020,Maruti,Baleno
+LXI CNG,Manual,23705,1st Owner,CNG,DL-2C,592000,2020,Maruti,New
+ZDI,Manual,48230,1st Owner,Diesel,DL-9C,797000,2019,Maruti,Vitara
+LXI,Manual,25394,1st Owner,Petrol,DL-2C,570000,2019,Maruti,Swift
+RXZ DIESEL 110,Manual,83253,1st Owner,Diesel,UP-14,740000,2018,RENAULT,DUSTER
+ZXI,Manual,27073,1st Owner,Petrol,UP-78,938000,2021,Maruti,Vitara
+RXZ MT DUAL TONE,Manual,6844,1st Owner,Petrol,HR-13,841000,2022,Renault,TRIBER
+ZDI AMT,Automatic,26727,1st Owner,Diesel,UP-32,927000,2019,Maruti,VITARA
+ZETA PETROL 1.2,Manual,3723,1st Owner,Petrol,HR-26,756000,2021,Maruti,Baleno
+ZDI AMT,Automatic,56107,1st Owner,Diesel,HR-26,806000,2019,Maruti,Vitara
+RXZ 1.0 Easy R Petrol,Automatic,8383,1st Owner,Petrol,DL-3C,850000,2021,Renault,Kiger
+ZDI,Manual,23595,2nd Owner,Diesel,UP-15,862000,2019,Maruti,Vitara
+SPORTZ 1.2 VTVT,Manual,65518,1st Owner,Petrol,UP-14,442000,2014,Hyundai,i20
+VXI,Manual,39093,1st Owner,Petrol,DL-12,186000,2011,Maruti,Alto
+1.0 Lxi (o) cng,Manual,11646,1st Owner,CNG,DL-14,608000,2021,Maruti,New
+VXI,Manual,55674,1st Owner,Petrol,DL-9C,438000,2015,Maruti,Swift
+RXZ CVT 1.3 TURBO,Automatic,10831,1st Owner,Petrol,DL-7C,1370000,2021,Renault,Duster
+VXI,Manual,53238,1st Owner,Petrol,UP-16,818000,2020,Maruti,Vitara
+1.2L I-VTEC VX CVT,Automatic,12379,1st Owner,Petrol,UP-14,1011000,2022,Honda,Amaze
+LXI,Manual,16820,1st Owner,Petrol,DL-5C,566000,2019,Maruti,Swift
+1.0 S AT,Automatic,72230,2nd Owner,Petrol,HR-06,330000,2018,DATSUN,REDI
+ALPHA 1.4 VVT AMT,Automatic,60653,1st Owner,Petrol,DL-8C,878000,2018,Maruti,Ciaz
+DELTA PETROL 1.2,Manual,48397,2nd Owner,Petrol,DL-8C,607000,2019,Maruti,Baleno
+1.5L I-VTEC VX CVT,Automatic,32005,1st Owner,Petrol,DL-7C,1173000,2020,HONDA,CITY
+XZ PLUS 1.2 REVOTRON,Manual,7268,1st Owner,Petrol,UP-14,770000,2021,TATA,TIGOR
+DELTA PETROL 1.2,Manual,32550,2nd Owner,Petrol,DL-10,552000,2017,Maruti,BALENO
+VX MT PETROL,Manual,16320,1st Owner,Petrol,DL-9C,1092000,2020,Honda,City
+GTX PLUS 1.5D  AT,Automatic,39565,1st Owner,Diesel,UP-16,1329000,2021,KIA,SONET
+1.5L I-VTEC ZX CVT,Automatic,36609,1st Owner,Petrol,HR-26,1125000,2019,HONDA,CITY
+XZA PLUS,Automatic,7788,1st Owner,Diesel,HR-51,2096000,2022,Tata,Harrier
+ZETA PETROL 1.2,Manual,10401,1st Owner,Petrol,HR-29,764000,2021,Maruti,Baleno
+ALPHA 1.2 AMT,Automatic,10723,2nd Owner,Petrol,DL-8C,689000,2020,Maruti,IGNIS
+DELTA PETROL 1.2,Manual,16017,1st Owner,Petrol,UP-14,687000,2021,Maruti,BALENO
+TREND 1.5L PETROL,Manual,58538,1st Owner,Petrol,UP-32,604000,2017,Ford,Ecosport
+1.2 i-VTEC VX MT,Manual,12724,2nd Owner,Petrol,HR-26,803000,2018,Honda,WR-V
+SX 1.0 TURBO,Manual,40530,1st Owner,Petrol,DL-10,980000,2019,HYUNDAI,VENUE
+VXI,Manual,18344,1st Owner,Petrol,HR-49,347000,2020,Maruti,ALTO
+1.2 VX AT,Automatic,8652,2nd Owner,Petrol,HR-26,769000,2019,Honda,Jazz
+Magna 1.2 AT  VTVT,Automatic,42133,1st Owner,Petrol,DL-4C,527000,2017,Hyundai,Grand
+1.5L I-VTEC ZX CVT,Automatic,9438,1st Owner,Petrol,HR-51,1531000,2021,Honda,City
+VDI,Manual,28565,1st Owner,Diesel,HR-51,747000,2018,Maruti,Vitara
+ZDI,Manual,48414,1st Owner,Diesel,UP-14,843000,2019,Maruti,Vitara
+ZDI,Manual,91240,1st Owner,Diesel,UP-16,746000,2018,Maruti,Vitara
+RXL,Manual,9258,2nd Owner,Petrol,DL-3C,351000,2019,Renault,Kwid
+VXI AMT,Automatic,29043,2nd Owner,Petrol,HR-26,581000,2018,Maruti,Swift
+AMBIENTE 1.5L DIESEL,Manual,24931,1st Owner,Diesel,DL-7C,708000,2018,FORD,ECOSPORT
+SPORTZ MT,Manual,60207,1st Owner,Petrol,UP-14,451000,2019,Hyundai,NEW
+S 1.2 CNG,Manual,28942,2nd Owner,CNG,UP-14,748000,2020,HYUNDAI,AURA
+VDI,Manual,29480,1st Owner,Diesel,DL-1C,809000,2019,Maruti,Vitara
+1.0 RXT Opt,Manual,25977,1st Owner,Petrol,HR-26,387000,2019,Renault,Kwid
+CLIMBER 1.0 AT,Automatic,8786,1st Owner,Petrol,DL-12,601000,2022,Renault,Kwid
+ZXI Plus AMT,Automatic,20250,2nd Owner,Petrol,HR-26,796000,2021,Maruti,Dzire
+RXS 106 PS MT,Manual,47944,1st Owner,Petrol,DL-7C,855000,2019,Renault,Duster
+XZA PLUS PETROL,Automatic,28345,1st Owner,CNG,UP-14,1005000,2019,Tata,NEXON
+LX  4WD AT CONVERTIBLE,Automatic,17524,1st Owner,Petrol,UP-11,1467000,2021,Mahindra,Thar
+DELTA PETROL 1.2,Manual,57155,2nd Owner,Petrol,DL-1C,511000,2016,Maruti,Baleno
+ZXI AMT,Automatic,45936,1st Owner,Petrol,DL-14,429000,2016,Maruti,Celerio
+XMA PETROL,Automatic,9759,1st Owner,Petrol,DL-11,709000,2021,TATA,TIGOR
+ZDI + AMT,Automatic,98394,1st Owner,Diesel,HR-26,816000,2018,Maruti,Vitara
+VDI,Manual,68282,2nd Owner,Diesel,HR-26,679000,2019,Maruti,VITARA
+S 1.2 CNG,Manual,38891,1st Owner,CNG,DL-9C,777000,2021,HYUNDAI,AURA
+RXT 1.0 AMT (O),Automatic,28118,1st Owner,Petrol,UP-14,493000,2021,RENAULT,KWID
+VDI,Manual,71386,1st Owner,Diesel,HR-26,758000,2019,Maruti,Vitara
+VXI,Manual,7570,2nd Owner,Petrol,DL-8C,410000,2020,Maruti,S
+ASTA 1.2,Manual,47284,1st Owner,Petrol,UP-14,585000,2016,HYUNDAI,ELITE
+ZETA 1.2 AMT DUAL TONE,Automatic,29406,2nd Owner,Petrol,HR-10,537000,2017,Maruti,IGNIS
+1.2 S MT I VTEC,Manual,97470,1st Owner,Petrol,DL-3C,298000,2013,Honda,Brio
+1.6 S,Manual,62690,2nd Owner,Petrol,DL-1C,778000,2015,Hyundai,Creta
+XZ PLUS 2.0L DARK EDITION,Manual,45425,1st Owner,Diesel,DL-11,1816000,2021,Tata,Harrier
+ASTA AT 1.2 KAPPA VTVT,Automatic,69180,1st Owner,Petrol,DL-3C,476000,2015,Hyundai,Grand
+ZDI,Manual,40605,1st Owner,Diesel,DL-3C,779000,2018,Maruti,Vitara
+CLIMBER 1.0 AT,Automatic,15801,1st Owner,Petrol,DL-12,617000,2022,Renault,Kwid
+LXI,Manual,14803,1st Owner,Petrol,DL-8C,589000,2021,Maruti,SWIFT
+ZETA CVT PETROL 1.2,Automatic,39076,1st Owner,Petrol,HR-26,786000,2020,Maruti,BALENO
+RXT 1.0 EASY-R AT OPTION,Automatic,18781,2nd Owner,Petrol,DL-3C,418000,2019,Renault,Kwid
+GTX+ 1.4 MT,Manual,6003,1st Owner,Petrol,HR-26,1620000,2020,KIA,SELTOS
+1.2L I-VTEC S MT,Manual,64889,1st Owner,Petrol,UP-32,642000,2017,HONDA,WR-V
+1.2 S,Manual,72488,1st Owner,Petrol,UP-80,563000,2016,HYUNDAI,I20
+DELTA PETROL 1.2,Manual,29414,2nd Owner,Petrol,HR-87,584000,2019,Maruti,Baleno
+VXI AMT,Automatic,36682,1st Owner,CNG,UP-32,721000,2019,Maruti,SWIFT
+ZDI PLUS AMT,Automatic,50481,1st Owner,Diesel,HR-26,861000,2018,Maruti,Vitara
+VDI OPT,Manual,43109,1st Owner,Diesel,DL-3C,749000,2018,Maruti,Vitara
+VXI,Manual,26925,1st Owner,Petrol,DL-3C,654000,2019,Maruti,DZIRE
+LXI,Manual,20754,1st Owner,Petrol,DL-1C,309000,2018,Maruti,ALTO
+LXI CNG 1.0 L,Manual,63997,1st Owner,CNG,DL-2C,558000,2020,Maruti,New
+ZDI + AMT,Automatic,34843,1st Owner,Diesel,DL-2C,949000,2018,Maruti,Vitara
+HIGH GRADE MT,Manual,8216,1st Owner,Petrol,HR-98,1019000,2022,TOYOTA,URBAN
+XZ MT,Manual,18867,1st Owner,Petrol,DL-9C,694000,2022,Tata,TIAGO
+1.2 V MT I-VTEC,Manual,43985,1st Owner,Petrol,DL-1C,616000,2018,Honda,Amaze
+VXI AMT,Automatic,28076,2nd Owner,Petrol,HR-51,463000,2018,Maruti,Wagon
+LXI,Manual,25872,1st Owner,Petrol,UP-16,330000,2018,Maruti,ALTO
+1.5L I-VTEC V MT,Manual,83926,1st Owner,Petrol,UP-14,716700,2017,Honda,City
+VXI,Manual,83261,1st Owner,Petrol,DL-12,337000,2012,Maruti,SWIFT
+SX PLUS 1.2 AMT,Automatic,41027,1st Owner,Petrol,HR-36,816000,2020,HYUNDAI,AURA
+ZDI AMT,Automatic,31785,1st Owner,Diesel,DL-8C,886000,2019,Maruti,Vitara
+RXZ 1.0 TURBO MT,Manual,17632,1st Owner,Petrol,UP-62,906000,2021,Renault,Kiger
+ZETA PETROL 1.2,Manual,19124,1st Owner,Petrol,HR-26,721000,2019,Maruti,Baleno
+DELTA PETROL 1.2,Manual,67985,1st Owner,Petrol,HR-29,520000,2016,Maruti,Baleno
+ASTA (O) 1.2 MT,Manual,13811,1st Owner,Petrol,HR-26,918000,2021,Hyundai,NEW
+MAGNA AT 1.2 KAPPA VTVT,Automatic,40993,1st Owner,Petrol,DL-8C,522000,2017,Hyundai,Grand
+LXI,Manual,31810,1st Owner,Petrol,UP-14,269000,2016,Maruti,Alto
+T (O),Manual,33936,1st Owner,Petrol,HR-30,293000,2018,Datsun,Redi
+MAGNA AMT,Automatic,7595,1st Owner,Petrol,DL-12,541000,2018,Hyundai,NEW
+VXI AMT,Automatic,32330,1st Owner,Petrol,HR-52,488000,2018,Maruti,Wagon
+1.2L I-VTEC V CVT,Automatic,17143,1st Owner,Petrol,DL-1C,832000,2019,HONDA,AMAZE
+LXI CNG 1.0 L,Manual,34090,1st Owner,CNG,HR-76,552000,2020,Maruti,New
+A,Manual,37928,2nd Owner,Petrol,UP-14,298000,2019,Datsun,Redi
+SPORTZ AT 1.2 KAPPA VTVT,Manual,35366,1st Owner,Petrol,UP-16,577000,2017,Hyundai,Grand
+LXI,Manual,12582,1st Owner,Petrol,DL-4C,566000,2019,Maruti,SWIFT
+VXI,Manual,28254,1st Owner,Petrol,DL-9C,334000,2017,Maruti,ALTO
+1.2 SPORTS PLUS VTVT,Manual,78183,1st Owner,Petrol,DL-1C,719000,2019,Hyundai,ELITE
+ZETA PETROL 1.2,Manual,23849,1st Owner,Petrol,HR-26,777000,2020,Maruti,Baleno
+1.5 i-DTEC VX MT,Manual,59946,1st Owner,Diesel,HR-10,928000,2020,Honda,WR-V
+1.2 SV MT,Manual,71967,1st Owner,Petrol,DL-3C,461000,2016,Honda,Jazz
+RXZ CVT 1.0 TURBO DUAL TONE,Automatic,9980,1st Owner,Petrol,HR-51,986000,2021,Renault,Kiger
+LXI CNG 1.0,Manual,75415,1st Owner,CNG,DL-8C,522000,2020,Maruti,New
+DELTA PETROL 1.2,Manual,94624,1st Owner,Petrol,HR-26,550000,2018,Maruti,Baleno
+DELTA 1.2 K12,Manual,12662,1st Owner,Petrol,HR-36,683000,2020,Maruti,BALENO
+1.0 Lxi (o) cng,Manual,33883,1st Owner,CNG,DL-11,594000,2021,Maruti,New
+LXI,Manual,53804,1st Owner,Petrol,DL-2C,316000,2018,Maruti,ALTO
+XZ 1.2,Manual,15122,1st Owner,Petrol,DL-11,776000,2020,Tata,ALTROZ
+1.2 W6 AT,Automatic,25852,1st Owner,Petrol,DL-3C,1088000,2021,Mahindra,XUV
+VXI,Manual,20981,1st Owner,Petrol,DL-3C,712000,2019,Maruti,Dzire
+ZETA PETROL 1.2,Manual,56679,2nd Owner,Petrol,HR-19,597000,2019,Maruti,Baleno
+XMA PETROL,Automatic,38643,1st Owner,Petrol,DL-12,797000,2019,TATA,NEXON
+ZDI + AMT,Automatic,16508,2nd Owner,Diesel,HR-51,854000,2018,Maruti,Vitara
+VXI,Manual,31812,1st Owner,Petrol,DL-1C,696000,2019,Maruti,Dzire
+RXZ CVT 1.0 TURBO,Automatic,12944,1st Owner,Petrol,DL-3C,1116000,2021,Renault,Kiger
+W6 1.2 PETROL,Manual,5488,1st Owner,Petrol,DL-12,1078000,2021,MAHINDRA,XUV
+LXI CNG 1.0 L,Manual,39788,1st Owner,CNG,DL-1C,542000,2019,Maruti,New
+1.0 RXZ,Manual,10510,1st Owner,Petrol,UP-16,739000,2021,Renault,TRIBER
+1.0 RXZ,Manual,3133,1st Owner,Petrol,DL-12,826000,2022,Renault,TRIBER
+DELTA PETROL 1.2,Manual,19859,1st Owner,Petrol,UP-16,651000,2019,Maruti,Baleno
+ZDI,Manual,38748,1st Owner,Diesel,DL-1C,800000,2018,Maruti,VITARA
+1.2L I-VTEC VX MT,Manual,36793,1st Owner,Petrol,HR-51,817000,2018,Honda,WR-V
+W8 1.2 PETROL,Manual,16166,1st Owner,Petrol,HR-26,980000,2020,Mahindra,XUV
+LXI,Manual,30029,1st Owner,Petrol,HR-23,221000,2012,Maruti,Alto
+1.5L I-VTEC ZX CVT,Automatic,85889,1st Owner,Petrol,UP-14,1135000,2019,HONDA,CITY
+TITANIUM 1.5L PETROL,Manual,69170,1st Owner,Petrol,HR-26,752000,2018,Ford,Ecosport
+XZ 1.2,Manual,17185,1st Owner,Petrol,DL-9C,744000,2020,Tata,ALTROZ
+LXI,Manual,41768,1st Owner,Petrol,UP-14,337000,2018,Maruti,ALTO
+LXI OPT,Manual,29147,1st Owner,Petrol,DL-3C,394250,2021,Maruti,Alto
+VX,Manual,57187,1st Owner,Petrol,DL-4C,310000,2011,Toyota,Etios
+SPORTZ EXECUTIVE CNG,Manual,32139,1st Owner,CNG,DL-7C,586000,2021,Hyundai,NEW
+1.2 V MT,Manual,29074,2nd Owner,Petrol,DL-4C,512000,2015,HONDA,JAZZ
+VXI,Manual,56705,1st Owner,Petrol,HR-26,334000,2013,Maruti,Swift
+V MT PETROL,Manual,93095,1st Owner,Petrol,HR-26,743000,2017,Honda,City
+ALPHA 1.5 SHVS PETROL,Manual,53019,1st Owner,Petrol,HR-26,884000,2018,Maruti,CIAZ
+LXI,Manual,28543,1st Owner,Petrol,HR-26,561000,2019,Maruti,Swift
+1.0 RXT Opt,Manual,11264,1st Owner,Petrol,UP-78,461000,2019,Renault,Kwid
+V MT PETROL,Manual,59084,1st Owner,Petrol,HR-10,747000,2017,Honda,City
+LXI CNG 1.0 L,Manual,73939,1st Owner,CNG,DL-14,526000,2020,Maruti,New
+1.2 VX CVT I VTEC,Automatic,78148,1st Owner,Petrol,DL-9C,501000,2015,Honda,Amaze
+RXS 106 PS MT,Manual,43395,1st Owner,Petrol,DL-3C,870000,2019,Renault,Duster
+MAGNA EXECUTIVE CNG,Manual,32179,1st Owner,CNG,DL-8C,632000,2020,Hyundai,NEW
+ZETA PETROL 1.2,Manual,14233,1st Owner,Petrol,HR-51,740000,2020,Maruti,Baleno
+LX HT PETROL 4WD MT,Manual,27763,1st Owner,Petrol,HR-42,1505000,2021,MAHINDRA,THAR
+SPORTZ 1.2 KAPPA VTVT CNG,Manual,17428,1st Owner,CNG,DL-7C,804000,2022,HYUNDAI,GRAND
+SX PLUS 1.0 TURBO DCT,Automatic,67033,1st Owner,Petrol,HR-26,1011000,2019,Hyundai,VENUE
+1.1 SPORTZ MT CNG,Manual,36627,1st Owner,CNG,DL-7C,555000,2019,Hyundai,NEW
+LXI CNG 1.0 L,Manual,40242,1st Owner,CNG,DL-12,549000,2020,Maruti,New
+SPORTZ 1.2 AT KAPPA2,Automatic,70958,1st Owner,Petrol,DL-3C,270000,2011,Hyundai,i10
+ASTA 1.2 KAPPA VTVT,Manual,53734,1st Owner,Petrol,UP-14,433000,2015,Hyundai,GRAND
+LXI CNG 1.0 L,Manual,48251,1st Owner,CNG,DL-8C,571250,2019,Maruti,New
+LX D 4*4 MT HT,Manual,8222,1st Owner,Diesel,DL-8C,1609000,2021,Mahindra,Thar
+MAGNA 1.2 VTVT,Manual,20971,1st Owner,Petrol,DL-9C,519000,2018,Hyundai,Grand
+SPORTZ EXECUTIVE MT CNG,Manual,54826,1st Owner,CNG,DL-9C,579000,2021,Hyundai,NEW
+K8 6 STR,Manual,26967,1st Owner,Petrol,DL-8C,653000,2020,Mahindra,KUV
+LX D 4*4 MT HT,Manual,7723,1st Owner,Diesel,HR-26,1604000,2021,MAHINDRA,THAR
+ZDI PLUS AMT,Automatic,36296,1st Owner,Diesel,HR-10,868000,2018,Maruti,Vitara
+1.5 i-DTEC VX MT,Manual,33770,1st Owner,Diesel,HR-26,1211000,2021,Honda,WR-V
+DELTA 1.4 VVT AMT,Automatic,27530,1st Owner,Petrol,DL-1C,915000,2018,Maruti,CIAZ
+VXI,Manual,22766,1st Owner,Petrol,DL-12,633000,2017,Maruti,Dzire
+LXI,Manual,85032,1st Owner,Petrol,DL-2C,301000,2012,Maruti,SWIFT
+LXI CNG (O) 1.0,Manual,63818,1st Owner,CNG,HR-26,558000,2021,Maruti,New
+ALPHA 1.4 VVT AMT,Automatic,26218,1st Owner,Petrol,HR-26,890000,2018,Maruti,Ciaz
+LX PETROL HT 4WD AT,Automatic,5145,1st Owner,Petrol,DL-12,1654000,2021,Mahindra,Thar
+MAGNA AT 1.2 KAPPA VTVT,Automatic,63382,1st Owner,Petrol,DL-8C,465000,2016,Hyundai,Grand
+DELTA PETROL 1.2,Manual,33839,1st Owner,Petrol,UP-16,696000,2021,Maruti,Baleno
+ASTA 1.2 AT VTVT,Automatic,34900,2nd Owner,Petrol,DL-4C,481000,2015,HYUNDAI,GRAND
+RXZ 1.0 MT,Manual,15991,1st Owner,Petrol,DL-3C,876000,2021,Renault,Kiger
+SPORTZ MT,Manual,26239,1st Owner,Petrol,UP-32,485000,2018,HYUNDAI,NEW
+MAGNA 1.2 VTVT,Manual,65155,1st Owner,CNG,HR-26,484000,2018,Hyundai,Grand
+MAGNA 1.2 KAPPA VTVT,Manual,43762,1st Owner,CNG,HR-83,513000,2018,Hyundai,Grand
+1.5 TITANIUM SIGNATURE TI VCT (SUNROOF),Manual,34393,2nd Owner,CNG,HR-26,935000,2018,Ford,Ecosport
+1.0 RXT Opt,Manual,16177,1st Owner,Petrol,DL-9C,450000,2019,Renault,Kwid
+LXI CNG 1.0 L,Manual,56074,1st Owner,CNG,HR-30,546000,2021,Maruti,New
+RXZ CVT 1.0 TURBO,Automatic,17191,1st Owner,Petrol,DL-3C,999000,2021,RENAULT,Kiger
+RXZ CVT 1.3 TURBO,Automatic,10333,1st Owner,Petrol,HR-36,1365000,2021,Renault,Duster
+LXI OPT,Manual,47934,1st Owner,Petrol,DL-2C,440000,2016,Maruti,Swift
+ZETA 1.2 AMT,Automatic,39181,2nd Owner,Petrol,HR-29,546000,2017,Maruti,IGNIS
+ZETA 1.5 SHVS MT PETROL,Manual,17178,1st Owner,Petrol,DL-8C,962000,2021,Maruti,Ciaz
+T (O),Manual,30224,1st Owner,Petrol,DL-8C,304000,2018,Datsun,Redi
+VXI AMT,Automatic,16554,1st Owner,Petrol,DL-1C,657000,2018,Maruti,Swift
+XZ PLUS 1.2 REVOTRON,Manual,18102,1st Owner,Petrol,HR-51,685000,2020,Tata,TIGOR
+XZ 1.2,Manual,23776,1st Owner,Petrol,DL-9C,749000,2020,Tata,ALTROZ
+RXZ 1.0 TURBO MT DUAL TONE,Manual,6835,1st Owner,Petrol,UP-14,948000,2021,Renault,Kiger
+1.5L I-VTEC SV,Manual,26285,1st Owner,Petrol,DL-3C,607000,2014,Honda,City
+LXI,Manual,25026,1st Owner,Petrol,DL-5C,315000,2018,Maruti,Alto
+LXI CNG,Manual,28914,1st Owner,CNG,UP-14,493000,2021,Maruti,ALTO
+XZA+  KRYOTEC,Automatic,16533,1st Owner,Diesel,HR-10,2080000,2021,Tata,Safari
+1.0 Lxi (o) cng,Manual,53118,1st Owner,CNG,HR-26,545000,2019,Maruti,New
+LX PETROL HT 4WD AT,Automatic,8373,1st Owner,Petrol,DL-2C,1638000,2021,Mahindra,Thar
+SIGMA PETROL 1.2,Manual,13066,1st Owner,Petrol,HR-29,632000,2021,Maruti,Baleno
+1.0 Lxi (o) cng,Manual,20677,1st Owner,CNG,DL-6C,608000,2021,Maruti,New
+1.0 Lxi (o) cng,Manual,92418,1st Owner,CNG,DL-12,537000,2019,Maruti,New
+ZDI AMT,Automatic,87576,1st Owner,Diesel,HR-87,854000,2019,Maruti,Vitara
+1.0 RXZ,Manual,18132,1st Owner,Petrol,DL-3C,766000,2021,Renault,TRIBER
+SPORTZ 1.2 KAPPA VTVT CNG,Manual,26081,1st Owner,CNG,HR-26,719000,2021,Hyundai,GRAND
+XZA PLUS PETROL,Automatic,7074,1st Owner,Petrol,DL-3C,1054000,2019,Tata,NEXON
+SPORTZ CNG,Manual,63793,1st Owner,CNG,HR-26,552000,2019,Hyundai,NEW
+VXI,Manual,69859,1st Owner,Petrol,DL-1C,406000,2014,Maruti,Swift
+RXT Opt,Manual,26678,1st Owner,Petrol,HR-26,384000,2019,Renault,Kwid
+1.5L I-VTEC V MT 4TH GEN,Manual,14215,1st Owner,Petrol,UP-14,1132000,2022,HONDA,CITY
+VXI,Manual,8664,1st Owner,Petrol,DL-3C,361000,2021,Maruti,Alto
+LXI CNG 1.0 L,Manual,62629,1st Owner,CNG,DL-8C,572000,2020,Maruti,New
+RXT,Manual,16602,1st Owner,Petrol,UP-15,400000,2019,Renault,Kwid
+LXI CNG 1.0 L,Manual,22185,1st Owner,CNG,DL-8C,598000,2021,Maruti,New
+ASTA AT 1.2 KAPPA VTVT,Automatic,60308,2nd Owner,Petrol,HR-51,487000,2015,HYUNDAI,GRAND
+XZ (O) 1.2 RTN,Manual,54207,1st Owner,Petrol,DL-11,731000,2020,Tata,ALTROZ
+DELTA PETROL 1.2,Manual,10915,1st Owner,Petrol,HR-26,724000,2021,Maruti,Baleno
+ALPHA AT SMART HYBRID,Automatic,23160,1st Owner,Petrol,HR-51,1121000,2020,Maruti,S
+RXZ AMT,Automatic,4196,1st Owner,Petrol,DL-12,918000,2022,Renault,TRIBER
+LXI,Manual,20810,2nd Owner,Petrol,DL-1C,582000,2020,Maruti,Swift
+ASTA 1.2,Manual,33624,1st Owner,Petrol,UP-80,589000,2015,HYUNDAI,ELITE
+LXI CNG 1.0 L,Manual,57715,1st Owner,CNG,HR-13,546000,2020,Maruti,New
+ZETA PETROL 1.2,Manual,34496,1st Owner,Petrol,HR-29,650000,2019,Maruti,Baleno
+LXI,Manual,10616,1st Owner,Petrol,DL-1C,551000,2019,Maruti,SWIFT
+2WD MT PETROL,Manual,42864,1st Owner,Petrol,HR-26,1687000,2018,Hyundai,TUCSON
+SPORTZ PETROL,Manual,21706,1st Owner,Petrol,HR-36,628000,2020,Hyundai,GRAND
+ALPHA 1.5,Manual,5574,1st Owner,Petrol,UP-14,1165000,2020,Maruti,S
+DELTA CVT PETROL 1.2,Automatic,20889,1st Owner,Petrol,HR-26,617000,2017,Maruti,Baleno
+RXZ 1.0 MT,Manual,14272,1st Owner,Petrol,HR-51,822000,2021,Renault,Kiger
+SPORTZ EXECUTIVE CNG,Manual,53039,1st Owner,CNG,DL-7C,581000,2021,Hyundai,NEW
+SX 1.0 (O) TURBO,Manual,11936,1st Owner,Petrol,UP-32,1170000,2021,HYUNDAI,VENUE
+LXI CNG 1.0 L,Manual,72103,1st Owner,CNG,HR-26,547000,2019,Maruti,New
+LXI,Manual,61606,1st Owner,Petrol,DL-2C,280000,2016,Maruti,Alto
+ZXI PLUS,Manual,10723,1st Owner,Petrol,UP-63,667000,2021,Maruti,Celerio
+S MT PETROL,Manual,38002,1st Owner,Petrol,UP-14,536000,2013,HONDA,CITY
+DELTA PETROL 1.2,Manual,10440,1st Owner,Petrol,HR-87,713000,2021,Maruti,Baleno
+SPORTZ 1.2 KAPPA VTVT CNG,Manual,34714,1st Owner,CNG,HR-98,749000,2021,HYUNDAI,GRAND
+VXI,Manual,46247,2nd Owner,Petrol,HR-26,376000,2014,Maruti,Swift
+VXI PLUS,Manual,12642,1st Owner,Petrol,UP-14,405000,2020,Maruti,Alto
+RXL,Manual,20053,1st Owner,Petrol,HR-30,360000,2019,Renault,Kwid
+VXI,Manual,5239,1st Owner,Petrol,DL-2C,441000,2020,Maruti,S
+SPORTZ CNG,Manual,68865,1st Owner,CNG,DL-3C,540000,2019,HYUNDAI,NEW
+MAGNA AT 1.2 KAPPA VTVT,Automatic,32033,1st Owner,Petrol,DL-9C,668000,2019,HYUNDAI,GRAND
+1.2 V CVT I VTEC,Automatic,45245,1st Owner,Petrol,HR-51,771000,2019,Honda,Amaze
+DELTA PETROL 1.2,Manual,29984,1st Owner,Petrol,HR-51,610000,2018,Maruti,BALENO
+ZXI,Manual,47073,1st Owner,Petrol,DL-8C,361000,2012,Maruti,Swift
+1.2 S CVT I VTEC SPECIAL EDITION,Automatic,37158,1st Owner,Petrol,UP-16,789000,2020,Honda,Amaze
+XZ 1.2,Manual,24268,1st Owner,Petrol,HR-26,758000,2020,TATA,ALTROZ
+SPORTZ CNG MT,Manual,28955,1st Owner,CNG,UP-16,697000,2021,Hyundai,GRAND
+ZXI,Manual,22536,1st Owner,Petrol,DL-2C,376000,2012,Maruti,SWIFT
+LXI,Manual,51460,1st Owner,Petrol,HR-76,589000,2021,Maruti,SWIFT
+ZXI OPT AMT,Automatic,29095,2nd Owner,Petrol,DL-8C,428000,2016,Maruti,CELERIO
+MAGNA 1.2 KAPPA VTVT,Manual,40850,1st Owner,Petrol,HR-29,514000,2018,Hyundai,Grand
+DELTA PETROL 1.2,Manual,86292,1st Owner,Petrol,HR-51,536000,2016,Maruti,Baleno
+VXI,Manual,36358,1st Owner,Petrol,DL-2C,347000,2013,Maruti,SWIFT
+XT 1.5 RTQ,Manual,16973,1st Owner,Diesel,DL-10,811000,2021,Tata,ALTROZ
+RXL,Manual,25519,2nd Owner,Petrol,HR-07,350000,2019,Renault,Kwid
+RXL,Manual,26260,1st Owner,Petrol,DL-3C,407000,2020,Renault,Kwid
+1.2 S MT,Manual,32287,1st Owner,Petrol,HR-51,488000,2017,Honda,Jazz
+VXI,Manual,30444,1st Owner,Petrol,HR-76,698000,2019,Maruti,Dzire
+LXI,Manual,8736,1st Owner,Petrol,DL-8C,340000,2018,Maruti,Alto
+LXI,Manual,63772,1st Owner,Petrol,UP-37,567000,2019,Maruti,SWIFT
+DELTA 1.4 MT PETROL,Manual,63864,2nd Owner,Petrol,HR-05,651000,2017,Maruti,Ciaz
+ZETA 1.2,Manual,46300,1st Owner,Petrol,HR-51,641000,2020,Maruti,IGNIS
+1.0 RXT Opt,Manual,17931,1st Owner,Petrol,UP-16,468000,2021,Renault,Kwid
+SPORTZ 1.2 KAPPA VTVT CNG,Manual,96192,1st Owner,CNG,HR-12,668000,2021,Hyundai,GRAND
+Varicor 400 XM,Manual,43895,1st Owner,Diesel,HR-26,1334000,2019,TATA,HEXA
+RXZ CVT 1.0 TURBO,Automatic,9698,1st Owner,Petrol,DL-3C,1128000,2021,Renault,Kiger
+LXI,Manual,13121,1st Owner,Petrol,DL-2C,572000,2019,Maruti,Swift
+ZETA AT 1.5  SHVS PETROL,Automatic,31350,2nd Owner,Petrol,DL-12,869000,2018,Maruti,CIAZ
+SPORTZ EXECUTIVE MT CNG,Manual,39295,1st Owner,CNG,DL-9C,637000,2021,HYUNDAI,NEW
+LX HT PETROL 4WD MT,Manual,4870,1st Owner,Petrol,HR-26,1475000,2021,MAHINDRA,THAR
+1.5 TITANIUM TI VCT,Manual,21803,1st Owner,Petrol,UP-16,703000,2017,FORD,ECOSPORT
+VXI,Manual,22705,1st Owner,Petrol,DL-3C,417000,2014,Maruti,Swift
+DELTA 1.2 AMT,Automatic,24588,2nd Owner,Petrol,HR-26,580000,2018,Maruti,IGNIS
+DELTA PETROL 1.2,Manual,47728,1st Owner,Petrol,HR-26,617000,2019,Maruti,Baleno
+1.2L I-VTEC S,Manual,52212,1st Owner,Petrol,DL-1C,623000,2018,Honda,Amaze
+VX CVT PETROL,Automatic,29589,2nd Owner,Petrol,DL-4C,1226000,2020,HONDA,CITY
+1.0 Lxi (o) cng,Manual,31413,1st Owner,CNG,DL-5C,605000,2021,Maruti,New
+LXI CNG 1.0 L,Manual,58736,1st Owner,CNG,DL-2C,526000,2019,Maruti,New
+ZXI 1.2 BS IV,Manual,46500,2nd Owner,Petrol,HR-26,431000,2014,Maruti,Swift
+LXI CNG 1.0 L,Manual,45156,1st Owner,CNG,DL-9C,565000,2020,Maruti,New
+LXI CNG 1.0 L,Manual,95737,1st Owner,CNG,DL-2C,545000,2019,Maruti,New
+RXZ 1.0 TURBO MT,Manual,9759,1st Owner,Petrol,DL-3C,1041000,2021,Renault,Kiger
+SPORTZ CNG,Manual,59157,1st Owner,CNG,HR-26,556000,2019,HYUNDAI,NEW
+LXI CNG 1.0 L,Manual,36330,1st Owner,CNG,DL-2C,569000,2020,Maruti,New
+MID GRADE MT,Manual,39032,1st Owner,Petrol,HR-26,888000,2021,TOYOTA,URBAN
+MAGNA 1.1,Manual,71103,2nd Owner,Petrol,DL-9C,321000,2015,HYUNDAI,I10
+2WD MT PETROL,Manual,86933,2nd Owner,Petrol,UP-14,1412000,2018,Hyundai,Tucson
+1.2 V AT,Automatic,60707,1st Owner,Petrol,HR-26,631000,2017,Honda,Jazz
+LXI,Manual,26057,1st Owner,Petrol,HR-26,299000,2016,Maruti,Alto
+1.0 RXT Opt AT,Automatic,10601,1st Owner,Petrol,DL-3C,499000,2021,Renault,Kwid
+SPORTZ 1.2 KAPPA VTVT CNG,Manual,22393,1st Owner,CNG,DL-12,773000,2021,Hyundai,GRAND
+MAGNA 1.2 VTVT,Manual,46115,2nd Owner,Petrol,DL-3C,371000,2014,Hyundai,Grand
+LXI,Manual,16722,1st Owner,Petrol,DL-8C,370000,2020,Maruti,Alto
+SPORTZ EXECUTIVE CNG,Manual,78260,1st Owner,CNG,HR-36,582000,2021,Hyundai,NEW
+LXI CNG 1.0 L,Manual,36344,1st Owner,CNG,HR-29,617000,2021,Maruti,New
+SPORTZ CNG,Manual,39950,1st Owner,CNG,DL-12,560000,2019,HYUNDAI,NEW
+1.0 Lxi (o) cng,Manual,95900,1st Owner,CNG,HR-26,511000,2020,Maruti,New
+LX PETROL HT 4WD AT,Automatic,18575,1st Owner,Petrol,HR-26,1524000,2021,Mahindra,Thar
+LXI CNG 1.0 L,Manual,45694,1st Owner,CNG,HR-35,568000,2020,Maruti,New
+1.0 RXT Opt,Manual,49798,1st Owner,Petrol,HR-26,409000,2019,Renault,Kwid
+XZ 1.2,Manual,18728,1st Owner,Petrol,DL-2C,758000,2020,Tata,ALTROZ
+LXI CNG 1.0 L,Manual,31364,1st Owner,CNG,HR-29,557000,2021,Maruti,New
+W11(O),Manual,49280,1st Owner,Diesel,HR-26,1654750,2020,MAHINDRA,XUV500
+LXI CNG 1.0 L,Manual,53085,1st Owner,CNG,HR-29,552000,2019,Maruti,New
+SPORTZ 1.2 KAPPA2,Manual,61649,2nd Owner,Petrol,HR-26,296000,2013,Hyundai,i10
+MAGNA 1.2 VTVT,Manual,48006,1st Owner,Petrol,DL-8C,397000,2014,Hyundai,Grand
+1.5L I-VTE V CVT,Automatic,31071,1st Owner,Petrol,HR-51,1027000,2018,Honda,City
+V MT PETROL,Manual,35203,1st Owner,Petrol,HR-26,886000,2021,Toyota,Glanza
+RXL,Manual,26980,1st Owner,Petrol,DL-12,368000,2019,Renault,Kwid
+ALPHA 1.5,Manual,29648,2nd Owner,Petrol,UP-16,1094000,2020,Maruti,S
+ALPHA PETROL 1.2,Manual,19503,2nd Owner,Petrol,HR-26,850000,2021,Maruti,Baleno
+XZ 1.2,Manual,23053,1st Owner,Petrol,HR-26,724000,2020,TATA,ALTROZ
+LXI,Manual,21304,2nd Owner,Petrol,UP-37,304000,2018,Maruti,ALTO
+G MT,Manual,37270,1st Owner,Petrol,UP-32,1170000,2020,TOYOTA,YARIS
+VXI PLUS,Manual,119,1st Owner,Petrol,HR-26,472000,2021,Maruti,S
+LXI CNG,Manual,45138,1st Owner,CNG,DL-9C,415000,2021,Maruti,Alto
+XZ 1.5 RTQ,Manual,33411,1st Owner,Diesel,UP-14,883000,2021,Tata,ALTROZ
+1.6 S,Manual,62663,2nd Owner,Petrol,DL-9C,817000,2016,Hyundai,Creta
+LXI,Manual,24796,1st Owner,Petrol,HR-29,336000,2018,Maruti,Alto
+LXI CNG 1.0 L,Manual,51129,1st Owner,CNG,HR-51,533000,2020,Maruti,New
+V MT PETROL,Manual,25148,1st Owner,Petrol,HR-12,987000,2020,Honda,City
+VXI CNG OPT,Manual,50029,2nd Owner,CNG,HR-26,525000,2020,Maruti,Celerio
+VXI,Manual,13180,1st Owner,Petrol,HR-29,410000,2022,Maruti,ALTO
+SPORTZ CNG,Manual,38298,1st Owner,CNG,DL-5C,558000,2019,Hyundai,NEW
+G ISG,Manual,26014,1st Owner,Petrol,DL-1C,858000,2020,Toyota,Glanza
+SPORTZ EXECUTIVE MT CNG,Manual,2077,1st Owner,CNG,DL-9C,631000,2022,Hyundai,NEW
+ZXI PLUS,Manual,39682,1st Owner,Petrol,UP-14,739000,2019,Maruti,Swift
+MAGNA,Manual,25411,1st Owner,Petrol,HR-26,462000,2019,Hyundai,NEW
+1.2L I-VTEC V AT,Automatic,25244,1st Owner,Petrol,HR-51,646000,2017,Honda,Jazz
+VXI AMT,Automatic,46562,1st Owner,Petrol,HR-51,438000,2015,Maruti,Celerio
+VXI,Manual,21969,1st Owner,Petrol,DL-6C,413000,2021,Maruti,Alto
+XZ 1.2,Manual,23268,1st Owner,Petrol,DL-12,766000,2020,Tata,ALTROZ
+LXI,Manual,54148,2nd Owner,Petrol,DL-9C,517000,2018,Maruti,Swift
+GTX + 1.0 IMT,Manual,12461,1st Owner,Petrol,DL-10,1319000,2020,KIA,SONET
+SX (O) 1.5 CRDI,Manual,57123,1st Owner,Diesel,HR-51,1001000,2019,Hyundai,VENUE
+LXI,Manual,18750,1st Owner,Petrol,DL-3C,314000,2018,Maruti,Alto
+ALPHA PETROL 1.2,Manual,13748,1st Owner,Petrol,UP-62,880000,2021,Maruti,Baleno
+VXI CNG OPT,Manual,71910,1st Owner,CNG,HR-13,506000,2019,Maruti,Celerio
+LX D 4*4 MT HT,Manual,17312,1st Owner,Diesel,HR-51,1599000,2021,Mahindra,Thar
+1.6 S,Manual,27923,1st Owner,Petrol,UP-32,791000,2015,Hyundai,Creta
+LX PETROL HT 4WD AT,Automatic,11551,1st Owner,Petrol,HR-70,1528000,2021,Mahindra,Thar
+RXZ CVT 1.0 TURBO,Automatic,2461,1st Owner,Petrol,UP-16,990000,2021,Renault,Kiger
+LXI CNG,Manual,30310,1st Owner,CNG,HR-26,438000,2021,Maruti,ALTO
+LXI CNG 1.0 L,Manual,31387,2nd Owner,CNG,HR-87,567000,2020,Maruti,New
+GTX PLUS DCT 1.0,Manual,12835,1st Owner,Petrol,HR-26,1271000,2020,KIA,SONET
+ZXI,Manual,79489,1st Owner,Petrol,HR-26,293000,2011,Maruti,Swift
